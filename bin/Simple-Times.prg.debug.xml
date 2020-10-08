@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="3" lineNum="12" pc="268435481" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="4" lineNum="15" pc="268435502" symbol="draw"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="4" lineNum="17" pc="268435506" symbol="draw"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="4" lineNum="18" pc="268435559" symbol="draw"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Constants.mc" id="7" lineNum="61" pc="268435572" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="9" lineNum="52" pc="268435577" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="9" lineNum="53" pc="268435581" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="57" pc="268435600" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="60" pc="268435604" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="61" pc="268435623" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="64" pc="268435642" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="65" pc="268435726" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="68" pc="268435739" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="69" pc="268435790" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="74" pc="268435803" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="75" pc="268435830" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="76" pc="268435842" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="78" pc="268435855" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="81" pc="268435865" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="10" lineNum="83" pc="268435877" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="87" pc="268435890" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="88" pc="268435894" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="89" pc="268435933" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="90" pc="268435969" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="91" pc="268435981" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="92" pc="268435993" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="93" pc="268436010" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="94" pc="268436035" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="95" pc="268436047" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="96" pc="268436083" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="99" pc="268436098" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="101" pc="268436110" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="102" pc="268436136" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="104" pc="268436153" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="105" pc="268436165" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="106" pc="268436194" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="109" pc="268436224" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="110" pc="268436235" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="113" pc="268436252" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="11" lineNum="114" pc="268436284" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="12" lineNum="119" pc="268436360" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="12" lineNum="120" pc="268436364" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="12" lineNum="121" pc="268436375" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="126" pc="268436393" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="127" pc="268436397" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="128" pc="268436414" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="129" pc="268436432" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="130" pc="268436443" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="132" pc="268436456" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="133" pc="268436467" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="135" pc="268436480" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="136" pc="268436491" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="139" pc="268436523" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="140" pc="268436546" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="141" pc="268436564" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="143" pc="268436577" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="147" pc="268436587" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="148" pc="268436611" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="150" pc="268436635" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="153" pc="268436653" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="154" pc="268436688" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="155" pc="268436723" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="156" pc="268436758" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="157" pc="268436793" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="158" pc="268436828" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="159" pc="268436863" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="160" pc="268436887" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="161" pc="268436911" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="162" pc="268436935" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="163" pc="268436959" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="164" pc="268436983" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="165" pc="268437007" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="177" pc="268437031" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="178" pc="268437095" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="179" pc="268437105" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="180" pc="268437120" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="181" pc="268437171" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="182" pc="268437181" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="185" pc="268437196" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="186" pc="268437215" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="187" pc="268437228" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="188" pc="268437248" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="197" pc="268437261" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="198" pc="268437278" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="13" lineNum="200" pc="268437291" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="204" pc="268437302" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="205" pc="268437306" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="206" pc="268437334" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="207" pc="268437346" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="208" pc="268437360" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="209" pc="268437374" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="210" pc="268437388" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="212" pc="268437402" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="213" pc="268437413" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="14" lineNum="216" pc="268437499" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="220" pc="268437514" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="221" pc="268437518" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="223" pc="268437522" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="224" pc="268437539" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="227" pc="268437546" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="228" pc="268437578" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="229" pc="268437595" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="230" pc="268437606" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="231" pc="268437675" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="233" pc="268437747" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="235" pc="268437819" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="236" pc="268437836" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="237" pc="268437847" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="238" pc="268437898" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="240" pc="268437952" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="242" pc="268438006" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="243" pc="268438023" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="244" pc="268438034" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="245" pc="268438085" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="15" lineNum="247" pc="268438139" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="16" lineNum="253" pc="268438194" symbol="drawNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="16" lineNum="254" pc="268438198" symbol="drawNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="16" lineNum="255" pc="268438215" symbol="drawNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="16" lineNum="256" pc="268438232" symbol="drawNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="16" lineNum="257" pc="268438249" symbol="drawNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="16" lineNum="258" pc="268438266" symbol="drawNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="16" lineNum="259" pc="268438283" symbol="drawNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="264" pc="268438301" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="265" pc="268438305" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="266" pc="268438322" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="267" pc="268438332" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="268" pc="268438342" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="270" pc="268438352" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="271" pc="268438368" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="273" pc="268438384" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="274" pc="268438396" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="275" pc="268438412" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="278" pc="268438431" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="280" pc="268438463" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="281" pc="268438480" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="282" pc="268438548" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="283" pc="268438616" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="284" pc="268438633" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="285" pc="268438701" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="286" pc="268438769" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="287" pc="268438786" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="288" pc="268438854" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="289" pc="268438922" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="290" pc="268438939" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="17" lineNum="291" pc="268439007" symbol="drawHands"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="296" pc="268439076" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="298" pc="268439080" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="299" pc="268439097" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="303" pc="268439174" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="304" pc="268439191" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="308" pc="268439268" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="309" pc="268439285" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="313" pc="268439362" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="314" pc="268439379" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="318" pc="268439456" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="319" pc="268439473" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="323" pc="268439550" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="18" lineNum="324" pc="268439567" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="19" lineNum="330" pc="268439645" symbol="drawDateBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="19" lineNum="331" pc="268439649" symbol="drawDateBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="19" lineNum="332" pc="268439660" symbol="drawDateBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="19" lineNum="334" pc="268439758" symbol="drawDateBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="20" lineNum="340" pc="268439884" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="20" lineNum="341" pc="268439888" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="20" lineNum="342" pc="268439965" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="20" lineNum="345" pc="268440061" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="20" lineNum="346" pc="268440098" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="20" lineNum="349" pc="268440194" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="21" lineNum="352" pc="268440258" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="21" lineNum="354" pc="268440262" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="21" lineNum="355" pc="268440339" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="21" lineNum="358" pc="268440453" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="21" lineNum="359" pc="268440490" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="21" lineNum="362" pc="268440604" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="366" pc="268440686" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="367" pc="268440690" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="368" pc="268440701" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="371" pc="268440717" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="372" pc="268440728" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="375" pc="268440744" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="376" pc="268440755" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="379" pc="268440771" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="380" pc="268440782" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="383" pc="268440798" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="384" pc="268440809" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="387" pc="268440825" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="388" pc="268440836" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="391" pc="268440845" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="392" pc="268440856" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="395" pc="268440872" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="396" pc="268440883" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="399" pc="268440892" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="400" pc="268440903" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="403" pc="268440919" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="404" pc="268440930" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="407" pc="268440939" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="408" pc="268440950" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="411" pc="268440959" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="412" pc="268440970" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="415" pc="268440986" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="416" pc="268440997" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="419" pc="268441013" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="420" pc="268441024" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="22" lineNum="423" pc="268441040" symbol="getColor"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="23" lineNum="426" pc="268441043" symbol="getBoxLocX"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="23" lineNum="427" pc="268441047" symbol="getBoxLocX"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="23" lineNum="428" pc="268441059" symbol="getBoxLocX"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="23" lineNum="430" pc="268441076" symbol="getBoxLocX"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="433" pc="268441115" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="434" pc="268441119" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="435" pc="268441154" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="436" pc="268441164" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="438" pc="268441180" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="439" pc="268441195" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="440" pc="268441202" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="445" pc="268441332" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="446" pc="268441343" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="449" pc="268441350" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="450" pc="268441367" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="464" pc="268441780" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="466" pc="268441849" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="467" pc="268441860" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="470" pc="268441867" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="471" pc="268441906" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="472" pc="268441930" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="473" pc="268441977" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="476" pc="268442024" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="477" pc="268442068" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="479" pc="268442112" symbol="drawDashTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="484" pc="268442149" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="485" pc="268442153" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="486" pc="268442188" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="487" pc="268442198" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="488" pc="268442214" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="489" pc="268442229" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="490" pc="268442236" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="495" pc="268442366" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="496" pc="268442377" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="498" pc="268442384" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="500" pc="268442453" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="501" pc="268442464" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="504" pc="268442471" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="505" pc="268442510" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="506" pc="268442534" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="507" pc="268442593" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="508" pc="268442652" symbol="drawTicksCircle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="513" pc="268442689" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="514" pc="268442693" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="515" pc="268442728" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="516" pc="268442738" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="517" pc="268442754" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="518" pc="268442769" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="519" pc="268442776" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="523" pc="268442906" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="524" pc="268442917" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="526" pc="268442924" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="528" pc="268442993" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="529" pc="268443004" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="532" pc="268443011" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="533" pc="268443050" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="534" pc="268443074" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="535" pc="268443098" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="536" pc="268443145" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="539" pc="268443192" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="540" pc="268443239" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="542" pc="268443286" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="543" pc="268443333" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="545" pc="268443380" symbol="drawTicksTriangle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="550" pc="268443517" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="552" pc="268443521" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="554" pc="268443537" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="555" pc="268443589" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="558" pc="268443608" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="559" pc="268443634" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="560" pc="268443660" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="561" pc="268443686" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="562" pc="268443712" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="563" pc="268443738" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="564" pc="268443764" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="565" pc="268443790" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="566" pc="268443816" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="567" pc="268443842" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="568" pc="268443868" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="569" pc="268443894" symbol="drawRomanNumerals"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="572" pc="268443921" symbol="drawPlainNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="574" pc="268443925" symbol="drawPlainNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="576" pc="268443941" symbol="drawPlainNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="577" pc="268443967" symbol="drawPlainNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="578" pc="268443993" symbol="drawPlainNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="579" pc="268444025" symbol="drawPlainNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="582" pc="268444052" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="584" pc="268444056" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="586" pc="268444072" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="587" pc="268444103" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="590" pc="268444122" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="591" pc="268444153" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="594" pc="268444172" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="595" pc="268444198" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="596" pc="268444224" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="597" pc="268444250" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="598" pc="268444276" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="599" pc="268444302" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="600" pc="268444328" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="601" pc="268444354" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="602" pc="268444380" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="603" pc="268444406" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="604" pc="268444432" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="605" pc="268444458" symbol="drawCenturyNumbers"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="610" pc="268444485" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="611" pc="268444489" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="612" pc="268444540" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="615" pc="268444556" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="616" pc="268444567" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="617" pc="268444580" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="620" pc="268444610" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="621" pc="268444624" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="623" pc="268444631" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="624" pc="268444675" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="626" pc="268444719" symbol="drawLineHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="630" pc="268444740" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="631" pc="268444744" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="632" pc="268444795" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="634" pc="268444811" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="635" pc="268444822" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="636" pc="268444835" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="639" pc="268444865" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="640" pc="268444879" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="641" pc="268444886" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="642" pc="268444902" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="644" pc="268444918" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="645" pc="268444948" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="647" pc="268444978" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="648" pc="268445005" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="650" pc="268445032" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="651" pc="268445056" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="654" pc="268445080" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="655" pc="268445100" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="656" pc="268445138" symbol="drawCircleHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="659" pc="268445165" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="660" pc="268445169" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="661" pc="268445220" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="664" pc="268445236" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="665" pc="268445247" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="666" pc="268445260" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="669" pc="268445290" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="670" pc="268445304" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="671" pc="268445348" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="673" pc="268445392" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="674" pc="268445486" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="676" pc="268445580" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="677" pc="268445674" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="679" pc="268445768" symbol="drawLongArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="683" pc="268445889" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="684" pc="268445893" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="685" pc="268445944" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="687" pc="268445960" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="690" pc="268445967" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="691" pc="268445978" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="692" pc="268445991" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="695" pc="268446021" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="697" pc="268446035" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="699" pc="268446164" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="702" pc="268446293" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="703" pc="268446337" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="705" pc="268446381" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="707" pc="268446510" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="710" pc="268446639" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="711" pc="268446733" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="713" pc="268446827" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="714" pc="268446921" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="716" pc="268447015" symbol="drawArrowHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="719" pc="268447204" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="720" pc="268447208" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="721" pc="268447225" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="722" pc="268447235" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="723" pc="268447245" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="724" pc="268447255" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="726" pc="268447271" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="727" pc="268447283" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="730" pc="268447302" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="731" pc="268447334" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="732" pc="268447360" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="733" pc="268447418" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="734" pc="268447430" symbol="drawSecondHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="738" pc="268447499" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="739" pc="268447503" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="741" pc="268447533" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="742" pc="268447584" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="743" pc="268447600" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="745" pc="268447614" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="746" pc="268447655" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="748" pc="268447696" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="749" pc="268447703" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="751" pc="268447710" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="752" pc="268447726" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="753" pc="268447742" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="754" pc="268447767" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="756" pc="268447792" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="757" pc="268447817" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="760" pc="268447861" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="761" pc="268447886" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="764" pc="268447933" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="765" pc="268447958" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="768" pc="268448002" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="769" pc="268448027" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="772" pc="268448068" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="773" pc="268448100" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="775" pc="268448120" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="776" pc="268448152" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="779" pc="268448228" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="780" pc="268448232" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="781" pc="268448239" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="782" pc="268448256" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="784" pc="268448273" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="785" pc="268448284" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="788" pc="268448297" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="789" pc="268448314" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="792" pc="268448327" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="793" pc="268448338" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="794" pc="268448349" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="798" pc="268448365" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="799" pc="268448382" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="802" pc="268448395" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="803" pc="268448420" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="804" pc="268448433" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="805" pc="268448450" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="806" pc="268448463" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="807" pc="268448480" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="808" pc="268448493" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="809" pc="268448510" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="810" pc="268448523" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="811" pc="268448540" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="812" pc="268448553" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="813" pc="268448570" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="815" pc="268448583" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="818" pc="268448593" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="819" pc="268448610" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="821" pc="268448642" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="830" pc="268448796" symbol="drawStatusBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="833" pc="268448811" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="836" pc="268448815" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="837" pc="268448863" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="838" pc="268448873" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="839" pc="268448897" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="840" pc="268448921" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="842" pc="268448940" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="843" pc="268448960" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="846" pc="268448973" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="847" pc="268448992" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="850" pc="268449002" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="851" pc="268449050" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="854" pc="268449120" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="856" pc="268449124" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="857" pc="268449172" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="858" pc="268449189" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="859" pc="268449222" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="861" pc="268449226" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="862" pc="268449252" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="863" pc="268449262" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="866" pc="268449269" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="867" pc="268449280" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="870" pc="268449293" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="873" pc="268449371" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="875" pc="268449375" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="876" pc="268449400" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="877" pc="268449400" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="878" pc="268449411" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="880" pc="268449421" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="883" pc="268449460" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="884" pc="268449472" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="888" pc="268449485" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="891" pc="268449534" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="893" pc="268449538" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="894" pc="268449538" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="896" pc="268449538" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="897" pc="268449564" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="899" pc="268449589" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="900" pc="268449600" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="902" pc="268449610" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="905" pc="268449626" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="909" pc="268449633" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="910" pc="268449645" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="913" pc="268449658" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="916" pc="268449707" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="918" pc="268449711" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="919" pc="268449711" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="921" pc="268449736" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="922" pc="268449736" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="923" pc="268449747" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="925" pc="268449757" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="928" pc="268449796" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="929" pc="268449808" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="934" pc="268449821" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="937" pc="268449870" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="939" pc="268449874" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="940" pc="268449874" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="941" pc="268449905" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="942" pc="268449923" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="943" pc="268449935" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="945" pc="268449948" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="946" pc="268449948" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="947" pc="268449959" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="949" pc="268449969" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="953" pc="268449987" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="954" pc="268449999" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="957" pc="268450012" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="960" pc="268450061" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="962" pc="268450065" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="964" pc="268450088" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="966" pc="268450106" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="967" pc="268450118" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="970" pc="268450131" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="973" pc="268450180" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="974" pc="268450184" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="975" pc="268450201" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="976" pc="268450233" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="977" pc="268450244" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="980" pc="268450281" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="989" pc="268450429" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="994" pc="268450444" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="995" pc="268450448" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="996" pc="268450465" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="997" pc="268450504" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="998" pc="268450514" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="999" pc="268450530" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1002" pc="268450546" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1003" pc="268450572" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1004" pc="268450582" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1007" pc="268450618" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1008" pc="268450629" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1011" pc="268450642" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1012" pc="268450649" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1013" pc="268450686" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1015" pc="268450738" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1016" pc="268450752" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1017" pc="268450762" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1018" pc="268450784" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1019" pc="268450807" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1020" pc="268450826" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1023" pc="268450848" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1024" pc="268450862" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1025" pc="268450872" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1026" pc="268450894" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1027" pc="268450917" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1028" pc="268450936" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1032" pc="268450958" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="1033" pc="268450988" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="1036" pc="268451085" symbol="drawNumber"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="1038" pc="268451089" symbol="drawNumber"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="1047" pc="268451230" symbol="drawNumber"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="1050" pc="268451245" symbol="drawNumberAngle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="1051" pc="268451249" symbol="drawNumberAngle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="1053" pc="268451261" symbol="drawNumberAngle"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1059" pc="268451465" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1060" pc="268451469" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1061" pc="268451486" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1062" pc="268451496" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1063" pc="268451513" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1064" pc="268451529" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1065" pc="268451546" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1067" pc="268451562" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1069" pc="268451578" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1070" pc="268451595" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1071" pc="268451605" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1072" pc="268451622" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1073" pc="268451638" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1074" pc="268451655" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1076" pc="268451671" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1078" pc="268451687" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1079" pc="268451704" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1080" pc="268451714" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1081" pc="268451731" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1082" pc="268451747" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1083" pc="268451764" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1085" pc="268451780" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="1088" pc="268451796" symbol="updateNumberFontHeight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1094" pc="268451810" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1095" pc="268451814" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1096" pc="268451831" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1097" pc="268451853" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1098" pc="268451875" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1099" pc="268451897" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1100" pc="268451919" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1101" pc="268451941" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1102" pc="268451966" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1103" pc="268451983" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1104" pc="268452005" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1105" pc="268452027" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1106" pc="268452049" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1107" pc="268452071" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1108" pc="268452093" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1110" pc="268452118" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1111" pc="268452140" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1112" pc="268452162" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1113" pc="268452184" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1114" pc="268452206" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="1115" pc="268452228" symbol="updateBoxSizes"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="1119" pc="268452251" symbol="resetBufferedBitmap"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="1120" pc="268452255" symbol="resetBufferedBitmap"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="1126" pc="268452328" symbol="clearBufferedBitmap"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="1127" pc="268452332" symbol="clearBufferedBitmap"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="1133" pc="268452342" symbol="onShow"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="1139" pc="268452347" symbol="onHide"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="1143" pc="268452352" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="1144" pc="268452356" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="1148" pc="268452367" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="1149" pc="268452371" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="57" lineNum="6" pc="268452382" symbol="getDateString"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="57" lineNum="7" pc="268452386" symbol="getDateString"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="59" lineNum="10" pc="268452393" symbol="getMainFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="59" lineNum="11" pc="268452397" symbol="getMainFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="59" lineNum="12" pc="268452408" symbol="getMainFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="59" lineNum="13" pc="268452447" symbol="getMainFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="59" lineNum="14" pc="268452458" symbol="getMainFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="59" lineNum="16" pc="268452497" symbol="getMainFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="60" lineNum="20" pc="268452534" symbol="getIconFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="60" lineNum="21" pc="268452538" symbol="getIconFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="60" lineNum="22" pc="268452549" symbol="getIconFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="60" lineNum="23" pc="268452588" symbol="getIconFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="60" lineNum="24" pc="268452599" symbol="getIconFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="60" lineNum="26" pc="268452638" symbol="getIconFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="30" pc="268452675" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="31" pc="268452679" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="33" pc="268452716" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="34" pc="268452727" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="35" pc="268452738" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="36" pc="268452777" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="37" pc="268452788" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="39" pc="268452827" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="41" pc="268452866" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="42" pc="268452877" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="43" pc="268452888" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="44" pc="268452927" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="45" pc="268452938" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="47" pc="268452977" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="49" pc="268453016" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="50" pc="268453027" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="51" pc="268453037" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="52" pc="268453048" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="53" pc="268453087" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="54" pc="268453098" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="56" pc="268453137" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="61" lineNum="60" pc="268453176" symbol="getNumberFont"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="62" lineNum="64" pc="268453180" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="62" lineNum="65" pc="268453184" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="62" lineNum="66" pc="268453237" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="62" lineNum="69" pc="268453309" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="62" lineNum="70" pc="268453334" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="62" lineNum="73" pc="268453406" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="63" lineNum="76" pc="268453458" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="63" lineNum="78" pc="268453462" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="63" lineNum="79" pc="268453515" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="63" lineNum="82" pc="268453593" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="63" lineNum="83" pc="268453618" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\Helpers.mc" id="63" lineNum="86" pc="268453696" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogApp.mc" id="65" lineNum="6" pc="268453757" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogApp.mc" id="65" lineNum="7" pc="268453761" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogApp.mc" id="66" lineNum="11" pc="268453780" symbol="onStart"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogApp.mc" id="67" lineNum="15" pc="268453785" symbol="onStop"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogApp.mc" id="68" lineNum="19" pc="268453790" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogApp.mc" id="68" lineNum="20" pc="268453794" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogApp.mc" id="69" lineNum="24" pc="268453832" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\Simple-Times\\source\\SimpleAnalogApp.mc" id="69" lineNum="25" pc="268453836" symbol="onSettingsChanged"/>
+        <entry filename="Rez" id="75" lineNum="30" pc="268453853" symbol="WatchFace"/>
+        <entry filename="Rez" id="75" lineNum="32" pc="268453865" symbol="WatchFace"/>
+        <entry filename="Rez" id="75" lineNum="33" pc="268453889" symbol="WatchFace"/>
+        <entry filename="Rez" id="75" lineNum="35" pc="268454052" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="217" method="true" symbol="clearBufferedBitmap"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="168" symbol="isDistanceMetric"/>
+        <entry field="true" id="32" symbol="CenturyFontLarge"/>
+        <entry id="8390101" object="true" symbol="BufferedBitmap"/>
+        <entry field="true" id="31" symbol="CenturyFontMedium"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="122" symbol="relative_sec_hand_stroke"/>
+        <entry field="true" id="163" symbol="lowPower"/>
+        <entry field="true" id="174" symbol="show_status_bar"/>
+        <entry field="true" id="172" symbol="show_nums_at"/>
+        <entry field="true" id="146" symbol="screensaver_speed_mult"/>
+        <entry field="true" id="19" symbol="MediumFont"/>
+        <entry field="true" id="171" symbol="show_min_ticks"/>
+        <entry field="true" id="118" symbol="relative_min_hand_length_extended"/>
+        <entry field="true" id="173" symbol="date_on_right"/>
+        <entry field="true" id="134" symbol="time_size_small"/>
+        <entry id="203" method="true" symbol="drawDate"/>
+        <entry id="189" method="true" symbol="getBoxLocX"/>
+        <entry field="true" id="20" symbol="BigFont"/>
+        <entry id="216" method="true" symbol="resetBufferedBitmap"/>
+        <entry field="true" id="156" symbol="text_color"/>
+        <entry id="207" method="true" symbol="drawCaloriesBox"/>
+        <entry field="true" id="148" symbol="total_colors"/>
+        <entry field="true" id="160" symbol="hand_style"/>
+        <entry field="true" id="135" symbol="time_size_medium"/>
+        <entry field="true" id="30" symbol="CenturyFontSmall"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="179" symbol="battery_size"/>
+        <entry field="true" id="126" symbol="box_padding"/>
+        <entry field="true" id="139" symbol="floors_size_large"/>
+        <entry field="true" id="66" symbol="NumberStyleTitle"/>
+        <entry field="true" id="149" symbol="offScreenBuffer"/>
+        <entry field="true" id="42" symbol="ShowSecondHandTitle"/>
+        <entry field="true" id="107" symbol="relative_min_tick_length"/>
+        <entry field="true" id="60" symbol="HandStyleTitle"/>
+        <entry field="true" id="113" symbol="relative_min_triangle_tick_size"/>
+        <entry field="true" id="56" symbol="MF_2"/>
+        <entry field="true" id="64" symbol="MF_1"/>
+        <entry field="true" id="63" symbol="MF_0"/>
+        <entry id="8390104" method="true" symbol="clearClip"/>
+        <entry field="true" id="78" symbol="RBD_6"/>
+        <entry field="true" id="76" symbol="RBD_5"/>
+        <entry field="true" id="80" symbol="RBD_4"/>
+        <entry field="true" id="79" symbol="RBD_3"/>
+        <entry field="true" id="74" symbol="RBD_2"/>
+        <entry field="true" id="73" symbol="RBD_1"/>
+        <entry field="true" id="75" symbol="RBD_0"/>
+        <entry field="true" id="27" symbol="CambriaFontLarge"/>
+        <entry field="true" id="8389795" symbol="doNotDisturb"/>
+        <entry field="true" id="158" symbol="tick_style"/>
+        <entry field="true" id="22" symbol="IconFont2"/>
+        <entry field="true" id="8390461" symbol="charging"/>
+        <entry field="true" id="54" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="137" symbol="floors_size_small"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="72" symbol="AlwaysOnTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="102" method="true" symbol="getMainFont"/>
+        <entry id="186" method="true" symbol="drawBox"/>
+        <entry field="true" id="58" symbol="HourMinHandColorTitle"/>
+        <entry id="181" method="true" symbol="updateValues"/>
+        <entry field="true" id="29" symbol="CambriaFontSmall"/>
+        <entry field="true" id="180" symbol="status_box_size"/>
+        <entry field="true" id="112" symbol="relative_hour_triangle_tick_size"/>
+        <entry field="true" id="62" symbol="Dow7"/>
+        <entry field="true" id="61" symbol="Dow6"/>
+        <entry field="true" id="59" symbol="Dow5"/>
+        <entry field="true" id="57" symbol="Dow4"/>
+        <entry field="true" id="55" symbol="Dow3"/>
+        <entry field="true" id="53" symbol="Dow1"/>
+        <entry field="true" id="52" symbol="Dow0"/>
+        <entry id="206" method="true" symbol="drawFloorsBox"/>
+        <entry field="true" id="69" symbol="AppName"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="166" symbol="partialUpdates"/>
+        <entry id="208" method="true" symbol="drawDistanceBox"/>
+        <entry field="true" id="170" symbol="showBoxes"/>
+        <entry field="true" id="109" symbol="relative_min_tick_stroke"/>
+        <entry field="true" id="147" symbol="screensaver_bounds"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="35" symbol="HS4"/>
+        <entry field="true" id="36" symbol="HS3"/>
+        <entry field="true" id="33" symbol="HS2"/>
+        <entry field="true" id="34" symbol="HS1"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry field="true" id="142" symbol="battery_size_large"/>
+        <entry id="204" method="true" symbol="drawTimeBox"/>
+        <entry field="true" id="165" symbol="lowMemDevice"/>
+        <entry field="true" id="71" symbol="SecondHandColorTitle"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="193" method="true" symbol="drawRomanNumerals"/>
+        <entry field="true" id="41" symbol="NS4"/>
+        <entry field="true" id="43" symbol="NS3"/>
+        <entry field="true" id="38" symbol="NS2"/>
+        <entry field="true" id="40" symbol="NS1"/>
+        <entry field="true" id="70" symbol="BoxColorTitle"/>
+        <entry id="11" object="true" symbol="Constants"/>
+        <entry field="true" id="124" symbol="relative_padding2"/>
+        <entry id="214" method="true" symbol="updateNumberFontHeight"/>
+        <entry field="true" id="37" symbol="DORT_2"/>
+        <entry field="true" id="94" symbol="DORT_1"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry field="true" id="140" symbol="battery_size_small"/>
+        <entry id="16" module="true" symbol="Menus"/>
+        <entry field="true" id="130" symbol="dow_size_large"/>
+        <entry id="196" method="true" symbol="drawLineHand"/>
+        <entry id="184" method="true" symbol="drawNumbers"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry field="true" id="21" symbol="IconFont"/>
+        <entry field="true" id="114" symbol="relative_hour_hand_length"/>
+        <entry field="true" id="46" symbol="TS4"/>
+        <entry field="true" id="47" symbol="TS3"/>
+        <entry field="true" id="44" symbol="TS2"/>
+        <entry field="true" id="45" symbol="TS1"/>
+        <entry field="true" id="125" symbol="relative_center_radius"/>
+        <entry field="true" id="177" symbol="time_size"/>
+        <entry id="211" method="true" symbol="drawScreenSaver"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="150" symbol="clip"/>
+        <entry field="true" id="129" symbol="dow_size_medium"/>
+        <entry field="true" id="176" symbol="date_size"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="213" method="true" symbol="drawNumberAngle"/>
+        <entry id="195" method="true" symbol="drawCenturyNumbers"/>
+        <entry field="true" id="67" symbol="ShowNumbersAtTitle"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="141" symbol="battery_size_medium"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="111" symbol="relative_hour_circle_tick_size"/>
+        <entry field="true" id="98" symbol="ShowTicksTitle"/>
+        <entry field="true" id="24" symbol="RomanFontLarge"/>
+        <entry field="true" id="90" symbol="ShowMinTicksTitle"/>
+        <entry field="true" id="153" symbol="box_color"/>
+        <entry field="true" id="133" symbol="date_size_large"/>
+        <entry field="true" id="128" symbol="dow_size_small"/>
+        <entry field="true" id="119" symbol="relative_sec_hand_length_extended"/>
+        <entry field="true" id="77" symbol="Image1"/>
+        <entry id="190" method="true" symbol="drawDashTicks"/>
+        <entry field="true" id="167" symbol="is24"/>
+        <entry field="true" id="83" symbol="DateOnRightTitle"/>
+        <entry field="true" id="26" symbol="RomanFontSmall"/>
+        <entry id="200" method="true" symbol="drawSecondHand"/>
+        <entry field="true" id="159" symbol="number_style"/>
+        <entry field="true" id="131" symbol="date_size_small"/>
+        <entry field="true" id="127" symbol="text_padding"/>
+        <entry field="true" id="161" symbol="showTicks"/>
+        <entry id="14" object="true" symbol="SimpleAnalogApp"/>
+        <entry id="182" method="true" symbol="drawBackground"/>
+        <entry field="true" id="144" symbol="status_box_size_medium"/>
+        <entry field="true" id="120" symbol="relative_hour_hand_stroke"/>
+        <entry field="true" id="152" symbol="foreground_color"/>
+        <entry field="true" id="115" symbol="relative_min_hand_length"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="169" symbol="showSecondHand"/>
+        <entry id="99" method="true" symbol="centerOnLeft"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="28" symbol="CambriaFontMedium"/>
+        <entry field="true" id="92" symbol="Color9"/>
+        <entry field="true" id="95" symbol="Color8"/>
+        <entry field="true" id="96" symbol="Color7"/>
+        <entry field="true" id="84" symbol="Color6"/>
+        <entry field="true" id="85" symbol="Color5"/>
+        <entry field="true" id="86" symbol="Color4"/>
+        <entry field="true" id="88" symbol="Color3"/>
+        <entry field="true" id="81" symbol="Color2"/>
+        <entry field="true" id="82" symbol="Color1"/>
+        <entry field="true" id="50" symbol="ShowStatusBarTitle"/>
+        <entry field="true" id="48" symbol="ShowBoxesTitle"/>
+        <entry field="true" id="51" symbol="RightBoxDipslayTitle"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="210" method="true" symbol="drawTextBox"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="178" symbol="floors_size"/>
+        <entry field="true" id="106" symbol="relative_hour_tick_length"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="199" method="true" symbol="drawArrowHand"/>
+        <entry field="true" id="17" symbol="LauncherIcon"/>
+        <entry field="true" id="25" symbol="RomanFontMedium"/>
+        <entry id="205" method="true" symbol="drawStepBox"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="145" symbol="status_box_size_large"/>
+        <entry field="true" id="39" symbol="TextColorTitle"/>
+        <entry field="true" id="175" symbol="dow_size"/>
+        <entry id="101" method="true" symbol="getDateString"/>
+        <entry field="true" id="110" symbol="relative_min_circle_tick_size"/>
+        <entry id="183" method="true" symbol="drawTicks"/>
+        <entry field="true" id="68" symbol="BackgroundColorTitle"/>
+        <entry id="188" method="true" symbol="getColor"/>
+        <entry field="true" id="8391194" symbol="requiresBurnInProtection"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="104" method="true" symbol="getNumberFont"/>
+        <entry field="true" id="8389872" symbol="floorsClimbed"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="192" method="true" symbol="drawTicksTriangle"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="143" symbol="status_box_size_small"/>
+        <entry field="true" id="121" symbol="relative_min_hand_stroke"/>
+        <entry field="true" id="132" symbol="date_size_medium"/>
+        <entry field="true" id="162" symbol="number_font_height"/>
+        <entry id="100" method="true" symbol="centerOnRight"/>
+        <entry id="212" method="true" symbol="drawNumber"/>
+        <entry field="true" id="151" symbol="background_color"/>
+        <entry field="true" id="157" symbol="RBD"/>
+        <entry field="true" id="164" symbol="needsProtection"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="13" object="true" symbol="Helpers"/>
+        <entry field="true" id="116" symbol="relative_sec_hand_length"/>
+        <entry id="202" method="true" symbol="drawStatusBox"/>
+        <entry field="true" id="23" symbol="BigIconFont"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="105" symbol="relative_tick_stroke"/>
+        <entry field="true" id="65" symbol="ForegroundColorTitle"/>
+        <entry field="true" id="108" symbol="relative_hour_tick_stroke"/>
+        <entry field="true" id="138" symbol="floors_size_medium"/>
+        <entry id="198" method="true" symbol="drawLongArrowHand"/>
+        <entry id="201" method="true" symbol="drawSecondHandClip"/>
+        <entry id="197" method="true" symbol="drawCircleHand"/>
+        <entry id="185" method="true" symbol="drawHands"/>
+        <entry id="15" module="true" symbol="Layouts"/>
+        <entry id="191" method="true" symbol="drawTicksCircle"/>
+        <entry id="215" method="true" symbol="updateBoxSizes"/>
+        <entry id="103" method="true" symbol="getIconFont"/>
+        <entry id="187" method="true" symbol="drawDateBox"/>
+        <entry id="209" method="true" symbol="drawBatteryBox"/>
+        <entry field="true" id="97" symbol="Color14"/>
+        <entry field="true" id="91" symbol="Color13"/>
+        <entry field="true" id="93" symbol="Color12"/>
+        <entry field="true" id="87" symbol="Color11"/>
+        <entry field="true" id="89" symbol="Color10"/>
+        <entry field="true" id="18" symbol="MainFont"/>
+        <entry field="true" id="117" symbol="relative_hour_hand_length_extended"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="194" method="true" symbol="drawPlainNumbers"/>
+        <entry field="true" id="154" symbol="second_hand_color"/>
+        <entry field="true" id="49" symbol="TickStyleTitle"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="123" symbol="relative_padding"/>
+        <entry field="true" id="136" symbol="time_size_large"/>
+        <entry field="true" id="155" symbol="hour_min_hand_color"/>
+        <entry id="12" object="true" symbol="SimpleAnalogView"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
+        <entry endPc="268435572" name="dc" stackId="1" startPc="268435502"/>
+        <entry endPc="268435890" name="dc" stackId="1" startPc="268435600"/>
+        <entry endPc="268436360" name="dc" stackId="1" startPc="268435890"/>
+        <entry endPc="268436393" name="dc" stackId="1" startPc="268436360"/>
+        <entry endPc="268437301" name="distanceMetric" stackId="3" startPc="268436397"/>
+        <entry endPc="268437301" name="always_on" stackId="4" startPc="268436397"/>
+        <entry endPc="268437301" name="UMF" stackId="2" startPc="268436397"/>
+        <entry endPc="268437301" name="app" stackId="1" startPc="268436397"/>
+        <entry endPc="268437514" name="dc" stackId="1" startPc="268437302"/>
+        <entry endPc="268438193" name="draw_numbers" stackId="2" startPc="268437518"/>
+        <entry endPc="268438194" name="dc" stackId="1" startPc="268437514"/>
+        <entry endPc="268438301" name="dc" stackId="1" startPc="268438194"/>
+        <entry endPc="268439075" name="min_hand_length" stackId="7" startPc="268438305"/>
+        <entry endPc="268439075" name="hours" stackId="3" startPc="268438305"/>
+        <entry endPc="268439075" name="minutes" stackId="4" startPc="268438305"/>
+        <entry endPc="268439075" name="hour_hand_length" stackId="6" startPc="268438305"/>
+        <entry endPc="268439075" name="clockTime" stackId="2" startPc="268438305"/>
+        <entry endPc="268439075" name="seconds" stackId="5" startPc="268438305"/>
+        <entry endPc="268439076" name="dc" stackId="1" startPc="268438301"/>
+        <entry endPc="268439645" name="dc" stackId="1" startPc="268439076"/>
+        <entry endPc="268439884" name="dc" stackId="1" startPc="268439645"/>
+        <entry endPc="268440258" name="size" stackId="1" startPc="268439884"/>
+        <entry endPc="268440686" name="size" stackId="1" startPc="268440258"/>
+        <entry endPc="268441043" name="num" stackId="1" startPc="268440686"/>
+        <entry endPc="268441115" name="width" stackId="1" startPc="268441043"/>
+        <entry endPc="268442132" name="x2" stackId="16" startPc="268441906"/>
+        <entry endPc="268442132" name="x1" stackId="14" startPc="268441906"/>
+        <entry endPc="268442132" name="y2" stackId="17" startPc="268441906"/>
+        <entry endPc="268442132" name="y1" stackId="15" startPc="268441906"/>
+        <entry endPc="268442132" name="angle" stackId="13" startPc="268441906"/>
+        <entry endPc="268442135" name="cond2" stackId="12" startPc="268441195"/>
+        <entry endPc="268442135" name="cond1" stackId="11" startPc="268441195"/>
+        <entry endPc="268442135" name="diff" stackId="10" startPc="268441195"/>
+        <entry endPc="268442148" name="i" stackId="9" startPc="268441195"/>
+        <entry endPc="268442148" name="center" stackId="8" startPc="268441119"/>
+        <entry endPc="268442148" name="tickAngle" stackId="7" startPc="268441119"/>
+        <entry endPc="268442149" name="dc" stackId="1" startPc="268441115"/>
+        <entry endPc="268442149" name="hour_ticks" stackId="6" startPc="268441115"/>
+        <entry endPc="268442149" name="num" stackId="4" startPc="268441115"/>
+        <entry endPc="268442149" name="draw_numbers" stackId="5" startPc="268441115"/>
+        <entry endPc="268442149" name="length" stackId="2" startPc="268441115"/>
+        <entry endPc="268442149" name="stroke" stackId="3" startPc="268441115"/>
+        <entry endPc="268442672" name="x1" stackId="14" startPc="268442510"/>
+        <entry endPc="268442672" name="y1" stackId="15" startPc="268442510"/>
+        <entry endPc="268442672" name="angle" stackId="13" startPc="268442510"/>
+        <entry endPc="268442675" name="cond2" stackId="12" startPc="268442229"/>
+        <entry endPc="268442675" name="cond1" stackId="11" startPc="268442229"/>
+        <entry endPc="268442675" name="diff" stackId="10" startPc="268442229"/>
+        <entry endPc="268442688" name="i" stackId="9" startPc="268442229"/>
+        <entry endPc="268442688" name="center" stackId="8" startPc="268442153"/>
+        <entry endPc="268442688" name="tickAngle" stackId="7" startPc="268442153"/>
+        <entry endPc="268442689" name="dc" stackId="1" startPc="268442149"/>
+        <entry endPc="268442689" name="hour_ticks" stackId="6" startPc="268442149"/>
+        <entry endPc="268442689" name="num" stackId="4" startPc="268442149"/>
+        <entry endPc="268442689" name="size" stackId="2" startPc="268442149"/>
+        <entry endPc="268442689" name="draw_numbers" stackId="5" startPc="268442149"/>
+        <entry endPc="268442689" name="stroke" stackId="3" startPc="268442149"/>
+        <entry endPc="268443500" name="x3" stackId="19" startPc="268443050"/>
+        <entry endPc="268443500" name="x2" stackId="17" startPc="268443050"/>
+        <entry endPc="268443500" name="y3" stackId="20" startPc="268443050"/>
+        <entry endPc="268443500" name="x1" stackId="15" startPc="268443050"/>
+        <entry endPc="268443500" name="y2" stackId="18" startPc="268443050"/>
+        <entry endPc="268443500" name="y1" stackId="16" startPc="268443050"/>
+        <entry endPc="268443500" name="offset" stackId="14" startPc="268443050"/>
+        <entry endPc="268443500" name="angle" stackId="13" startPc="268443050"/>
+        <entry endPc="268443503" name="cond2" stackId="12" startPc="268442769"/>
+        <entry endPc="268443503" name="cond1" stackId="11" startPc="268442769"/>
+        <entry endPc="268443503" name="diff" stackId="10" startPc="268442769"/>
+        <entry endPc="268443516" name="i" stackId="9" startPc="268442769"/>
+        <entry endPc="268443516" name="center" stackId="8" startPc="268442693"/>
+        <entry endPc="268443516" name="tickAngle" stackId="7" startPc="268442693"/>
+        <entry endPc="268443517" name="dc" stackId="1" startPc="268442689"/>
+        <entry endPc="268443517" name="hour_ticks" stackId="6" startPc="268442689"/>
+        <entry endPc="268443517" name="num" stackId="4" startPc="268442689"/>
+        <entry endPc="268443517" name="draw_numbers" stackId="5" startPc="268442689"/>
+        <entry endPc="268443517" name="length" stackId="2" startPc="268442689"/>
+        <entry endPc="268443517" name="stroke" stackId="3" startPc="268442689"/>
+        <entry endPc="268443920" name="pad" stackId="2" startPc="268443521"/>
+        <entry endPc="268443921" name="dc" stackId="1" startPc="268443517"/>
+        <entry endPc="268444051" name="pad" stackId="2" startPc="268443925"/>
+        <entry endPc="268444052" name="dc" stackId="1" startPc="268443921"/>
+        <entry endPc="268444484" name="pad" stackId="2" startPc="268444056"/>
+        <entry endPc="268444485" name="dc" stackId="1" startPc="268444052"/>
+        <entry endPc="268444607" name="section" stackId="10" startPc="268444567"/>
+        <entry endPc="268444739" name="center" stackId="9" startPc="268444489"/>
+        <entry endPc="268444739" name="x2" stackId="12" startPc="268444489"/>
+        <entry endPc="268444739" name="y2" stackId="13" startPc="268444489"/>
+        <entry endPc="268444739" name="divider" stackId="11" startPc="268444489"/>
+        <entry endPc="268444739" name="angle" stackId="8" startPc="268444489"/>
+        <entry endPc="268444740" name="offsetNum" stackId="4" startPc="268444485"/>
+        <entry endPc="268444740" name="dc" stackId="1" startPc="268444485"/>
+        <entry endPc="268444740" name="num" stackId="2" startPc="268444485"/>
+        <entry endPc="268444740" name="length" stackId="6" startPc="268444485"/>
+        <entry endPc="268444740" name="offsetTime" stackId="5" startPc="268444485"/>
+        <entry endPc="268444740" name="stroke" stackId="7" startPc="268444485"/>
+        <entry endPc="268444740" name="time" stackId="3" startPc="268444485"/>
+        <entry endPc="268444862" name="section" stackId="10" startPc="268444822"/>
+        <entry endPc="268445164" name="offsety" stackId="19" startPc="268444744"/>
+        <entry endPc="268445164" name="center" stackId="9" startPc="268444744"/>
+        <entry endPc="268445164" name="offsetx" stackId="18" startPc="268444744"/>
+        <entry endPc="268445164" name="x2" stackId="16" startPc="268444744"/>
+        <entry endPc="268445164" name="angle" stackId="8" startPc="268444744"/>
+        <entry endPc="268445164" name="length_from_end" stackId="12" startPc="268444744"/>
+        <entry endPc="268445164" name="radius" stackId="13" startPc="268444744"/>
+        <entry endPc="268445164" name="length1_multiplier" stackId="11" startPc="268444744"/>
+        <entry endPc="268445164" name="y2" stackId="17" startPc="268444744"/>
+        <entry endPc="268445164" name="y" stackId="15" startPc="268444744"/>
+        <entry endPc="268445164" name="x" stackId="14" startPc="268444744"/>
+        <entry endPc="268445165" name="offsetNum" stackId="4" startPc="268444740"/>
+        <entry endPc="268445165" name="dc" stackId="1" startPc="268444740"/>
+        <entry endPc="268445165" name="num" stackId="2" startPc="268444740"/>
+        <entry endPc="268445165" name="length" stackId="6" startPc="268444740"/>
+        <entry endPc="268445165" name="offsetTime" stackId="5" startPc="268444740"/>
+        <entry endPc="268445165" name="stroke" stackId="7" startPc="268444740"/>
+        <entry endPc="268445165" name="time" stackId="3" startPc="268444740"/>
+        <entry endPc="268445287" name="section" stackId="10" startPc="268445247"/>
+        <entry endPc="268445888" name="x" stackId="11" startPc="268445169"/>
+        <entry endPc="268445888" name="center" stackId="9" startPc="268445169"/>
+        <entry endPc="268445888" name="x3" stackId="15" startPc="268445169"/>
+        <entry endPc="268445888" name="x2" stackId="13" startPc="268445169"/>
+        <entry endPc="268445888" name="y3" stackId="16" startPc="268445169"/>
+        <entry endPc="268445888" name="y2" stackId="14" startPc="268445169"/>
+        <entry endPc="268445888" name="angle" stackId="8" startPc="268445169"/>
+        <entry endPc="268445888" name="y" stackId="12" startPc="268445169"/>
+        <entry endPc="268445889" name="offsetNum" stackId="4" startPc="268445165"/>
+        <entry endPc="268445889" name="dc" stackId="1" startPc="268445165"/>
+        <entry endPc="268445889" name="num" stackId="2" startPc="268445165"/>
+        <entry endPc="268445889" name="length" stackId="6" startPc="268445165"/>
+        <entry endPc="268445889" name="offsetTime" stackId="5" startPc="268445165"/>
+        <entry endPc="268445889" name="stroke" stackId="7" startPc="268445165"/>
+        <entry endPc="268445889" name="time" stackId="3" startPc="268445165"/>
+        <entry endPc="268446018" name="section" stackId="11" startPc="268445978"/>
+        <entry endPc="268447203" name="x3" stackId="16" startPc="268445893"/>
+        <entry endPc="268447203" name="center" stackId="9" startPc="268445893"/>
+        <entry endPc="268447203" name="x2" stackId="14" startPc="268445893"/>
+        <entry endPc="268447203" name="end_multiplier" stackId="10" startPc="268445893"/>
+        <entry endPc="268447203" name="angle" stackId="8" startPc="268445893"/>
+        <entry endPc="268447203" name="y5" stackId="21" startPc="268445893"/>
+        <entry endPc="268447203" name="y4" stackId="19" startPc="268445893"/>
+        <entry endPc="268447203" name="y3" stackId="17" startPc="268445893"/>
+        <entry endPc="268447203" name="y" stackId="13" startPc="268445893"/>
+        <entry endPc="268447203" name="y2" stackId="15" startPc="268445893"/>
+        <entry endPc="268447203" name="x" stackId="12" startPc="268445893"/>
+        <entry endPc="268447203" name="x5" stackId="20" startPc="268445893"/>
+        <entry endPc="268447203" name="x4" stackId="18" startPc="268445893"/>
+        <entry endPc="268447204" name="offsetNum" stackId="4" startPc="268445889"/>
+        <entry endPc="268447204" name="dc" stackId="1" startPc="268445889"/>
+        <entry endPc="268447204" name="num" stackId="2" startPc="268445889"/>
+        <entry endPc="268447204" name="length" stackId="6" startPc="268445889"/>
+        <entry endPc="268447204" name="offsetTime" stackId="5" startPc="268445889"/>
+        <entry endPc="268447204" name="stroke" stackId="7" startPc="268445889"/>
+        <entry endPc="268447204" name="time" stackId="3" startPc="268445889"/>
+        <entry endPc="268447498" name="hours" stackId="3" startPc="268447208"/>
+        <entry endPc="268447498" name="minutes" stackId="4" startPc="268447208"/>
+        <entry endPc="268447498" name="sec_hand_length" stackId="6" startPc="268447208"/>
+        <entry endPc="268447498" name="clockTime" stackId="2" startPc="268447208"/>
+        <entry endPc="268447498" name="seconds" stackId="5" startPc="268447208"/>
+        <entry endPc="268447499" name="dc" stackId="1" startPc="268447204"/>
+        <entry endPc="268448227" name="padding2" stackId="15" startPc="268447503"/>
+        <entry endPc="268448227" name="center" stackId="7" startPc="268447503"/>
+        <entry endPc="268448227" name="width2" stackId="12" startPc="268447503"/>
+        <entry endPc="268448227" name="angle" stackId="6" startPc="268447503"/>
+        <entry endPc="268448227" name="height2" stackId="13" startPc="268447503"/>
+        <entry endPc="268448227" name="sinval" stackId="9" startPc="268447503"/>
+        <entry endPc="268448227" name="y" stackId="11" startPc="268447503"/>
+        <entry endPc="268448227" name="padding" stackId="14" startPc="268447503"/>
+        <entry endPc="268448227" name="x" stackId="10" startPc="268447503"/>
+        <entry endPc="268448227" name="cosval" stackId="8" startPc="268447503"/>
+        <entry endPc="268448228" name="dc" stackId="1" startPc="268447499"/>
+        <entry endPc="268448228" name="num" stackId="2" startPc="268447499"/>
+        <entry endPc="268448228" name="length" stackId="4" startPc="268447499"/>
+        <entry endPc="268448228" name="stroke" stackId="5" startPc="268447499"/>
+        <entry endPc="268448228" name="time" stackId="3" startPc="268447499"/>
+        <entry endPc="268448810" name="status" stackId="6" startPc="268448232"/>
+        <entry endPc="268448810" name="status_string" stackId="4" startPc="268448232"/>
+        <entry endPc="268448810" name="boxText" stackId="7" startPc="268448232"/>
+        <entry endPc="268448810" name="settings" stackId="5" startPc="268448232"/>
+        <entry endPc="268448811" name="x" stackId="2" startPc="268448228"/>
+        <entry endPc="268448811" name="dc" stackId="1" startPc="268448228"/>
+        <entry endPc="268448811" name="y" stackId="3" startPc="268448228"/>
+        <entry endPc="268449119" name="day_string" stackId="6" startPc="268448815"/>
+        <entry endPc="268449119" name="dowString" stackId="5" startPc="268448815"/>
+        <entry endPc="268449119" name="info" stackId="4" startPc="268448815"/>
+        <entry endPc="268449120" name="x" stackId="2" startPc="268448811"/>
+        <entry endPc="268449120" name="dc" stackId="1" startPc="268448811"/>
+        <entry endPc="268449120" name="y" stackId="3" startPc="268448811"/>
+        <entry endPc="268449370" name="hours" stackId="6" startPc="268449124"/>
+        <entry endPc="268449370" name="hourString" stackId="7" startPc="268449124"/>
+        <entry endPc="268449370" name="clockTime" stackId="5" startPc="268449124"/>
+        <entry endPc="268449370" name="info" stackId="4" startPc="268449124"/>
+        <entry endPc="268449371" name="x" stackId="2" startPc="268449120"/>
+        <entry endPc="268449371" name="dc" stackId="1" startPc="268449120"/>
+        <entry endPc="268449371" name="y" stackId="3" startPc="268449120"/>
+        <entry endPc="268449533" name="steps" stackId="4" startPc="268449375"/>
+        <entry endPc="268449533" name="stepString" stackId="5" startPc="268449375"/>
+        <entry endPc="268449534" name="x" stackId="2" startPc="268449371"/>
+        <entry endPc="268449534" name="dc" stackId="1" startPc="268449371"/>
+        <entry endPc="268449534" name="y" stackId="3" startPc="268449371"/>
+        <entry endPc="268449706" name="floors" stackId="4" startPc="268449538"/>
+        <entry endPc="268449706" name="floorString" stackId="5" startPc="268449538"/>
+        <entry endPc="268449707" name="x" stackId="2" startPc="268449534"/>
+        <entry endPc="268449707" name="dc" stackId="1" startPc="268449534"/>
+        <entry endPc="268449707" name="y" stackId="3" startPc="268449534"/>
+        <entry endPc="268449869" name="calorieString" stackId="5" startPc="268449711"/>
+        <entry endPc="268449869" name="calories" stackId="4" startPc="268449711"/>
+        <entry endPc="268449870" name="x" stackId="2" startPc="268449707"/>
+        <entry endPc="268449870" name="dc" stackId="1" startPc="268449707"/>
+        <entry endPc="268449870" name="y" stackId="3" startPc="268449707"/>
+        <entry endPc="268450060" name="distanceString" stackId="5" startPc="268449874"/>
+        <entry endPc="268450060" name="distance" stackId="4" startPc="268449874"/>
+        <entry endPc="268450061" name="x" stackId="2" startPc="268449870"/>
+        <entry endPc="268450061" name="dc" stackId="1" startPc="268449870"/>
+        <entry endPc="268450061" name="y" stackId="3" startPc="268449870"/>
+        <entry endPc="268450179" name="batteryString" stackId="5" startPc="268450065"/>
+        <entry endPc="268450179" name="battery" stackId="4" startPc="268450065"/>
+        <entry endPc="268450180" name="x" stackId="2" startPc="268450061"/>
+        <entry endPc="268450180" name="dc" stackId="1" startPc="268450061"/>
+        <entry endPc="268450180" name="y" stackId="3" startPc="268450061"/>
+        <entry endPc="268450443" name="boxText" stackId="7" startPc="268450184"/>
+        <entry endPc="268450444" name="height" stackId="6" startPc="268450180"/>
+        <entry endPc="268450444" name="x" stackId="3" startPc="268450180"/>
+        <entry endPc="268450444" name="dc" stackId="1" startPc="268450180"/>
+        <entry endPc="268450444" name="width" stackId="5" startPc="268450180"/>
+        <entry endPc="268450444" name="text" stackId="2" startPc="268450180"/>
+        <entry endPc="268450444" name="y" stackId="4" startPc="268450180"/>
+        <entry endPc="268451084" name="hour" stackId="4" startPc="268450448"/>
+        <entry endPc="268451084" name="ssloc" stackId="5" startPc="268450448"/>
+        <entry endPc="268451084" name="timeString" stackId="3" startPc="268450448"/>
+        <entry endPc="268451084" name="clockTime" stackId="2" startPc="268450448"/>
+        <entry endPc="268451084" name="pad" stackId="7" startPc="268450448"/>
+        <entry endPc="268451084" name="speed_mult" stackId="6" startPc="268450448"/>
+        <entry endPc="268451085" name="dc" stackId="1" startPc="268450444"/>
+        <entry endPc="268451244" name="boxText" stackId="5" startPc="268451089"/>
+        <entry endPc="268451245" name="x" stackId="3" startPc="268451085"/>
+        <entry endPc="268451245" name="dc" stackId="1" startPc="268451085"/>
+        <entry endPc="268451245" name="text" stackId="2" startPc="268451085"/>
+        <entry endPc="268451245" name="y" stackId="4" startPc="268451085"/>
+        <entry endPc="268451465" name="dc" stackId="1" startPc="268451245"/>
+        <entry endPc="268451465" name="num_text" stackId="4" startPc="268451245"/>
+        <entry endPc="268451465" name="pad" stackId="3" startPc="268451245"/>
+        <entry endPc="268451465" name="angle" stackId="2" startPc="268451245"/>
+        <entry endPc="268452393" name="day" stackId="1" startPc="268452382"/>
+        <entry endPc="268452534" name="width" stackId="1" startPc="268452393"/>
+        <entry endPc="268452675" name="width" stackId="1" startPc="268452534"/>
+        <entry endPc="268453179" name="number_font" stackId="3" startPc="268452679"/>
+        <entry endPc="268453180" name="number_style" stackId="2" startPc="268452675"/>
+        <entry endPc="268453180" name="width" stackId="1" startPc="268452675"/>
+        <entry endPc="268453458" name="tick_style" stackId="3" startPc="268453180"/>
+        <entry endPc="268453458" name="number_style" stackId="2" startPc="268453180"/>
+        <entry endPc="268453458" name="size" stackId="1" startPc="268453180"/>
+        <entry endPc="268453458" name="width" stackId="4" startPc="268453180"/>
+        <entry endPc="268453754" name="tick_style" stackId="3" startPc="268453458"/>
+        <entry endPc="268453754" name="number_style" stackId="2" startPc="268453458"/>
+        <entry endPc="268453754" name="size" stackId="1" startPc="268453458"/>
+        <entry endPc="268453754" name="width" stackId="4" startPc="268453458"/>
+        <entry endPc="268453785" name="state" stackId="1" startPc="268453780"/>
+        <entry endPc="268453790" name="state" stackId="1" startPc="268453785"/>
+        <entry endPc="268454079" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268453865"/>
+        <entry endPc="268454079" name="rez_cmp_local_custom_drawable_14974324691007900226" stackId="2" startPc="268453865"/>
+        <entry endPc="268454080" name="dc" stackId="1" startPc="268453853"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="103" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="190" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="245" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="324" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="363" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="394" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="545" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="584" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="615" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1174" parentId="globals" symbolId="Helpers" type="class"/>
+        <dataEntry offset="1300" parentId="globals" symbolId="Constants" type="class"/>
+        <dataEntry offset="1730" parentId="globals" symbolId="SimpleAnalogApp" type="class"/>
+        <dataEntry offset="1809" parentId="globals" symbolId="SimpleAnalogView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Constants">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPartialUpdate" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateValues" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBackground" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTicks" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawNumbers" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHands" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDateBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="centerOnLeft" parent="SimpleAnalogView">
+            <param id="size"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="centerOnRight" parent="SimpleAnalogView">
+            <param id="size"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getColor" parent="SimpleAnalogView">
+            <param id="num"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getBoxLocX" parent="SimpleAnalogView">
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDashTicks" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <param id="num"/>
+            <param id="draw_numbers"/>
+            <param id="hour_ticks"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTicksCircle" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="size"/>
+            <param id="stroke"/>
+            <param id="num"/>
+            <param id="draw_numbers"/>
+            <param id="hour_ticks"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTicksTriangle" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <param id="num"/>
+            <param id="draw_numbers"/>
+            <param id="hour_ticks"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawRomanNumerals" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawPlainNumbers" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawCenturyNumbers" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawLineHand" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="num"/>
+            <param id="time"/>
+            <param id="offsetNum"/>
+            <param id="offsetTime"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawCircleHand" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="num"/>
+            <param id="time"/>
+            <param id="offsetNum"/>
+            <param id="offsetTime"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawLongArrowHand" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="num"/>
+            <param id="time"/>
+            <param id="offsetNum"/>
+            <param id="offsetTime"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawArrowHand" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="num"/>
+            <param id="time"/>
+            <param id="offsetNum"/>
+            <param id="offsetTime"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawSecondHand" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawSecondHandClip" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="num"/>
+            <param id="time"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawStatusBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDate" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTimeBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawStepBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawFloorsBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawCaloriesBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDistanceBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBatteryBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTextBox" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="text"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="width"/>
+            <param id="height"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawScreenSaver" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawNumber" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="text"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawNumberAngle" parent="SimpleAnalogView">
+            <param id="dc"/>
+            <param id="angle"/>
+            <param id="pad"/>
+            <param id="num_text"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateNumberFontHeight" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateBoxSizes" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="resetBufferedBitmap" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="clearBufferedBitmap" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="SimpleAnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDateString" parent="Helpers">
+            <param id="day"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getMainFont" parent="Helpers">
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getIconFont" parent="Helpers">
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getNumberFont" parent="Helpers">
+            <param id="width"/>
+            <param id="number_style"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="centerOnLeft" parent="Helpers">
+            <param id="size"/>
+            <param id="number_style"/>
+            <param id="tick_style"/>
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="centerOnRight" parent="Helpers">
+            <param id="size"/>
+            <param id="number_style"/>
+            <param id="tick_style"/>
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SimpleAnalogApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="SimpleAnalogApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="SimpleAnalogApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="SimpleAnalogApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="SimpleAnalogApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

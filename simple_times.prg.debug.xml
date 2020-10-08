@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\winis\OneDrive\Programming\GitHub\Simple-Times\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogApp.mc" id="7" lineNum="24" pc="268435531" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogApp.mc" id="7" lineNum="25" pc="268435535" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="9" lineNum="6" pc="268435552" symbol="getDateString"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="9" lineNum="7" pc="268435556" symbol="getDateString"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="11" lineNum="10" pc="268435563" symbol="getMainFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="11" lineNum="11" pc="268435567" symbol="getMainFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="11" lineNum="12" pc="268435578" symbol="getMainFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="11" lineNum="13" pc="268435617" symbol="getMainFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="11" lineNum="14" pc="268435628" symbol="getMainFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="11" lineNum="16" pc="268435667" symbol="getMainFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="12" lineNum="20" pc="268435704" symbol="getIconFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="12" lineNum="21" pc="268435708" symbol="getIconFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="12" lineNum="22" pc="268435719" symbol="getIconFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="12" lineNum="23" pc="268435758" symbol="getIconFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="12" lineNum="24" pc="268435769" symbol="getIconFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="12" lineNum="26" pc="268435808" symbol="getIconFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="30" pc="268435845" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="31" pc="268435849" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="33" pc="268435886" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="34" pc="268435897" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="35" pc="268435908" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="36" pc="268435947" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="37" pc="268435958" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="39" pc="268435997" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="41" pc="268436036" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="42" pc="268436047" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="43" pc="268436058" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="44" pc="268436097" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="45" pc="268436108" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="47" pc="268436147" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="49" pc="268436186" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="50" pc="268436197" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="51" pc="268436207" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="52" pc="268436218" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="53" pc="268436257" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="54" pc="268436268" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="56" pc="268436307" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="13" lineNum="60" pc="268436346" symbol="getNumberFont"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="14" lineNum="64" pc="268436350" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="14" lineNum="65" pc="268436354" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="14" lineNum="66" pc="268436407" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="14" lineNum="69" pc="268436479" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="14" lineNum="70" pc="268436504" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="14" lineNum="73" pc="268436576" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="15" lineNum="76" pc="268436628" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="15" lineNum="78" pc="268436632" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="15" lineNum="79" pc="268436685" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="15" lineNum="82" pc="268436763" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="15" lineNum="83" pc="268436788" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Helpers.mc" id="15" lineNum="86" pc="268436866" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="17" lineNum="7" pc="268436927" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="17" lineNum="8" pc="268436931" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="17" lineNum="12" pc="268436952" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="18" lineNum="15" pc="268436973" symbol="draw"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="18" lineNum="17" pc="268436977" symbol="draw"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogBackground.mc" id="18" lineNum="18" pc="268437030" symbol="draw"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="61" pc="268437043" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="31" pc="268454182" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="33" pc="268454222" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="34" pc="268454262" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="35" pc="268454302" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="37" pc="268454342" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="38" pc="268454382" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="39" pc="268454422" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="41" pc="268454462" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="42" pc="268454502" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="43" pc="268454542" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="45" pc="268454582" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="46" pc="268454622" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="47" pc="268454662" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="49" pc="268454702" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="50" pc="268454742" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="51" pc="268454782" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="53" pc="268454822" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="54" pc="268454862" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="55" pc="268454902" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="57" pc="268454942" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\Constants.mc" id="21" lineNum="58" pc="268454982" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="23" lineNum="52" pc="268437048" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="23" lineNum="53" pc="268437052" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="57" pc="268437071" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="60" pc="268437075" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="61" pc="268437094" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="64" pc="268437113" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="65" pc="268437197" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="68" pc="268437210" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="69" pc="268437261" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="74" pc="268437274" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="75" pc="268437301" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="76" pc="268437313" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="78" pc="268437326" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="81" pc="268437336" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="24" lineNum="83" pc="268437348" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="87" pc="268437361" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="88" pc="268437365" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="89" pc="268437404" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="90" pc="268437440" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="91" pc="268437452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="92" pc="268437464" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="93" pc="268437481" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="94" pc="268437506" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="95" pc="268437518" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="96" pc="268437554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="99" pc="268437569" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="101" pc="268437581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="102" pc="268437607" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="104" pc="268437624" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="105" pc="268437636" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="106" pc="268437665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="109" pc="268437695" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="110" pc="268437706" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="113" pc="268437723" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="25" lineNum="114" pc="268437755" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="119" pc="268437831" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="120" pc="268437835" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="26" lineNum="121" pc="268437846" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="126" pc="268437864" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="127" pc="268437868" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="128" pc="268437885" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="129" pc="268437903" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="130" pc="268437914" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="132" pc="268437927" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="133" pc="268437938" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="135" pc="268437951" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="136" pc="268437962" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="139" pc="268437994" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="140" pc="268438017" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="141" pc="268438035" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="143" pc="268438048" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="147" pc="268438058" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="148" pc="268438082" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="150" pc="268438106" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="153" pc="268438124" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="154" pc="268438159" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="155" pc="268438194" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="156" pc="268438229" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="157" pc="268438264" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="158" pc="268438299" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="159" pc="268438334" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="160" pc="268438358" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="161" pc="268438382" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="162" pc="268438406" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="163" pc="268438430" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="164" pc="268438454" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="165" pc="268438478" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="177" pc="268438502" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="178" pc="268438566" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="179" pc="268438576" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="180" pc="268438591" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="181" pc="268438642" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="182" pc="268438652" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="185" pc="268438667" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="186" pc="268438686" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="187" pc="268438699" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="188" pc="268438719" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="197" pc="268438732" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="198" pc="268438749" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="27" lineNum="200" pc="268438762" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="204" pc="268438773" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="205" pc="268438777" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="206" pc="268438805" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="207" pc="268438817" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="208" pc="268438831" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="209" pc="268438845" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="210" pc="268438859" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="212" pc="268438873" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="213" pc="268438884" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="28" lineNum="216" pc="268438970" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="220" pc="268438985" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="221" pc="268438989" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="223" pc="268438993" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="224" pc="268439010" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="227" pc="268439017" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="228" pc="268439049" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="229" pc="268439066" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="230" pc="268439077" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="231" pc="268439146" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="233" pc="268439218" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="235" pc="268439290" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="236" pc="268439307" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="237" pc="268439318" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="238" pc="268439369" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="240" pc="268439423" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="242" pc="268439477" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="243" pc="268439494" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="244" pc="268439505" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="245" pc="268439556" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="29" lineNum="247" pc="268439610" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="253" pc="268439665" symbol="drawNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="254" pc="268439669" symbol="drawNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="255" pc="268439686" symbol="drawNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="256" pc="268439703" symbol="drawNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="257" pc="268439720" symbol="drawNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="258" pc="268439737" symbol="drawNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="30" lineNum="259" pc="268439754" symbol="drawNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="264" pc="268439772" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="265" pc="268439776" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="266" pc="268439793" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="267" pc="268439803" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="268" pc="268439813" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="270" pc="268439823" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="271" pc="268439839" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="273" pc="268439855" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="274" pc="268439867" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="275" pc="268439883" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="278" pc="268439902" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="280" pc="268439934" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="281" pc="268439951" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="282" pc="268440019" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="283" pc="268440087" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="284" pc="268440104" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="285" pc="268440172" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="286" pc="268440240" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="287" pc="268440257" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="288" pc="268440325" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="289" pc="268440393" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="290" pc="268440410" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="31" lineNum="291" pc="268440478" symbol="drawHands"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="296" pc="268440547" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="298" pc="268440551" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="299" pc="268440568" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="303" pc="268440645" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="304" pc="268440662" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="308" pc="268440739" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="309" pc="268440756" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="313" pc="268440833" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="314" pc="268440850" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="318" pc="268440927" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="319" pc="268440944" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="323" pc="268441021" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="32" lineNum="324" pc="268441038" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="330" pc="268441116" symbol="drawDateBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="331" pc="268441120" symbol="drawDateBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="332" pc="268441131" symbol="drawDateBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="33" lineNum="334" pc="268441229" symbol="drawDateBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="340" pc="268441355" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="341" pc="268441359" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="342" pc="268441436" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="345" pc="268441532" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="346" pc="268441569" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="34" lineNum="349" pc="268441665" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="352" pc="268441729" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="354" pc="268441733" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="355" pc="268441810" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="358" pc="268441924" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="359" pc="268441961" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="35" lineNum="362" pc="268442075" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="366" pc="268442157" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="367" pc="268442161" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="368" pc="268442172" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="371" pc="268442188" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="372" pc="268442199" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="375" pc="268442215" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="376" pc="268442226" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="379" pc="268442242" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="380" pc="268442253" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="383" pc="268442269" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="384" pc="268442280" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="387" pc="268442296" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="388" pc="268442307" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="391" pc="268442316" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="392" pc="268442327" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="395" pc="268442343" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="396" pc="268442354" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="399" pc="268442363" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="400" pc="268442374" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="403" pc="268442390" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="404" pc="268442401" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="407" pc="268442410" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="408" pc="268442421" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="411" pc="268442430" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="412" pc="268442441" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="415" pc="268442457" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="416" pc="268442468" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="419" pc="268442484" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="420" pc="268442495" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="36" lineNum="423" pc="268442511" symbol="getColor"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="426" pc="268442514" symbol="getBoxLocX"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="427" pc="268442518" symbol="getBoxLocX"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="428" pc="268442530" symbol="getBoxLocX"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="37" lineNum="430" pc="268442547" symbol="getBoxLocX"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="433" pc="268442586" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="434" pc="268442590" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="435" pc="268442625" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="436" pc="268442635" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="438" pc="268442651" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="439" pc="268442666" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="440" pc="268442673" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="445" pc="268442803" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="446" pc="268442814" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="449" pc="268442821" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="450" pc="268442838" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="464" pc="268443251" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="466" pc="268443320" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="467" pc="268443331" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="470" pc="268443338" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="471" pc="268443377" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="472" pc="268443401" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="473" pc="268443448" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="476" pc="268443495" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="477" pc="268443539" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="38" lineNum="479" pc="268443583" symbol="drawDashTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="484" pc="268443620" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="485" pc="268443624" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="486" pc="268443659" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="487" pc="268443669" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="488" pc="268443685" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="489" pc="268443700" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="490" pc="268443707" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="495" pc="268443837" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="496" pc="268443848" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="498" pc="268443855" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="500" pc="268443924" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="501" pc="268443935" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="504" pc="268443942" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="505" pc="268443981" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="506" pc="268444005" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="507" pc="268444064" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="39" lineNum="508" pc="268444123" symbol="drawTicksCircle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="513" pc="268444160" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="514" pc="268444164" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="515" pc="268444199" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="516" pc="268444209" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="517" pc="268444225" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="518" pc="268444240" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="519" pc="268444247" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="523" pc="268444377" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="524" pc="268444388" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="526" pc="268444395" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="528" pc="268444464" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="529" pc="268444475" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="532" pc="268444482" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="533" pc="268444521" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="534" pc="268444545" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="535" pc="268444569" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="536" pc="268444616" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="539" pc="268444663" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="540" pc="268444710" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="542" pc="268444757" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="543" pc="268444804" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="40" lineNum="545" pc="268444851" symbol="drawTicksTriangle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="550" pc="268444988" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="552" pc="268444992" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="554" pc="268445008" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="555" pc="268445060" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="558" pc="268445079" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="559" pc="268445105" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="560" pc="268445131" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="561" pc="268445157" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="562" pc="268445183" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="563" pc="268445209" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="564" pc="268445235" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="565" pc="268445261" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="566" pc="268445287" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="567" pc="268445313" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="568" pc="268445339" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="41" lineNum="569" pc="268445365" symbol="drawRomanNumerals"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="572" pc="268445392" symbol="drawPlainNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="574" pc="268445396" symbol="drawPlainNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="576" pc="268445412" symbol="drawPlainNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="577" pc="268445438" symbol="drawPlainNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="578" pc="268445464" symbol="drawPlainNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="42" lineNum="579" pc="268445496" symbol="drawPlainNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="582" pc="268445523" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="584" pc="268445527" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="586" pc="268445543" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="587" pc="268445574" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="590" pc="268445593" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="591" pc="268445624" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="594" pc="268445643" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="595" pc="268445669" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="596" pc="268445695" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="597" pc="268445721" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="598" pc="268445747" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="599" pc="268445773" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="600" pc="268445799" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="601" pc="268445825" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="602" pc="268445851" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="603" pc="268445877" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="604" pc="268445903" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="43" lineNum="605" pc="268445929" symbol="drawCenturyNumbers"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="610" pc="268445956" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="611" pc="268445960" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="612" pc="268446011" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="615" pc="268446027" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="616" pc="268446038" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="617" pc="268446051" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="620" pc="268446081" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="621" pc="268446095" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="623" pc="268446102" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="624" pc="268446146" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="44" lineNum="626" pc="268446190" symbol="drawLineHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="630" pc="268446211" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="631" pc="268446215" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="632" pc="268446266" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="634" pc="268446282" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="635" pc="268446293" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="636" pc="268446306" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="639" pc="268446336" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="640" pc="268446350" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="641" pc="268446357" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="642" pc="268446373" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="644" pc="268446389" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="645" pc="268446419" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="647" pc="268446449" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="648" pc="268446476" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="650" pc="268446503" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="651" pc="268446527" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="654" pc="268446551" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="655" pc="268446571" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="45" lineNum="656" pc="268446609" symbol="drawCircleHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="659" pc="268446636" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="660" pc="268446640" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="661" pc="268446691" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="664" pc="268446707" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="665" pc="268446718" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="666" pc="268446731" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="669" pc="268446761" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="670" pc="268446775" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="671" pc="268446819" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="673" pc="268446863" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="674" pc="268446957" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="676" pc="268447051" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="677" pc="268447145" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="46" lineNum="679" pc="268447239" symbol="drawLongArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="683" pc="268447360" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="684" pc="268447364" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="685" pc="268447415" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="687" pc="268447431" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="690" pc="268447438" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="691" pc="268447449" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="692" pc="268447462" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="695" pc="268447492" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="697" pc="268447506" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="699" pc="268447635" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="702" pc="268447764" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="703" pc="268447808" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="705" pc="268447852" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="707" pc="268447981" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="710" pc="268448110" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="711" pc="268448204" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="713" pc="268448298" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="714" pc="268448392" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="47" lineNum="716" pc="268448486" symbol="drawArrowHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="719" pc="268448675" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="720" pc="268448679" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="721" pc="268448696" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="722" pc="268448706" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="723" pc="268448716" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="724" pc="268448726" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="726" pc="268448742" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="727" pc="268448754" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="730" pc="268448773" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="731" pc="268448805" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="732" pc="268448831" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="733" pc="268448889" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="48" lineNum="734" pc="268448901" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="738" pc="268448970" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="739" pc="268448974" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="741" pc="268449004" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="742" pc="268449055" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="743" pc="268449071" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="745" pc="268449085" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="746" pc="268449126" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="748" pc="268449167" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="749" pc="268449174" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="751" pc="268449181" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="752" pc="268449197" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="753" pc="268449213" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="754" pc="268449238" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="756" pc="268449263" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="757" pc="268449288" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="760" pc="268449332" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="761" pc="268449357" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="764" pc="268449404" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="765" pc="268449429" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="768" pc="268449473" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="769" pc="268449498" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="772" pc="268449539" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="773" pc="268449571" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="775" pc="268449591" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="49" lineNum="776" pc="268449623" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="779" pc="268449699" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="780" pc="268449703" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="781" pc="268449710" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="782" pc="268449727" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="784" pc="268449744" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="785" pc="268449755" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="788" pc="268449768" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="789" pc="268449785" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="792" pc="268449798" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="793" pc="268449809" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="794" pc="268449820" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="798" pc="268449836" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="799" pc="268449853" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="802" pc="268449866" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="803" pc="268449891" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="804" pc="268449904" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="805" pc="268449921" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="806" pc="268449934" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="807" pc="268449951" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="808" pc="268449964" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="809" pc="268449981" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="810" pc="268449994" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="811" pc="268450011" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="812" pc="268450024" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="813" pc="268450041" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="815" pc="268450054" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="818" pc="268450064" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="819" pc="268450081" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="821" pc="268450113" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="50" lineNum="830" pc="268450267" symbol="drawStatusBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="833" pc="268450282" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="836" pc="268450286" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="837" pc="268450334" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="838" pc="268450361" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="839" pc="268450385" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="841" pc="268450404" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="842" pc="268450424" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="845" pc="268450437" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="846" pc="268450456" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="849" pc="268450466" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="51" lineNum="850" pc="268450514" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="853" pc="268450584" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="855" pc="268450588" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="856" pc="268450636" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="857" pc="268450653" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="858" pc="268450686" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="860" pc="268450690" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="861" pc="268450716" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="862" pc="268450726" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="865" pc="268450733" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="866" pc="268450744" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="52" lineNum="869" pc="268450757" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="872" pc="268450835" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="874" pc="268450839" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="875" pc="268450864" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="876" pc="268450864" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="877" pc="268450875" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="879" pc="268450885" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="882" pc="268450924" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="883" pc="268450936" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="53" lineNum="887" pc="268450949" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="890" pc="268450998" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="892" pc="268451002" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="893" pc="268451002" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="895" pc="268451002" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="896" pc="268451028" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="898" pc="268451053" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="899" pc="268451064" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="901" pc="268451074" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="904" pc="268451090" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="908" pc="268451097" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="909" pc="268451109" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="54" lineNum="912" pc="268451122" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="915" pc="268451171" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="917" pc="268451175" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="918" pc="268451175" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="920" pc="268451200" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="921" pc="268451200" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="922" pc="268451211" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="924" pc="268451221" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="927" pc="268451260" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="928" pc="268451272" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="55" lineNum="933" pc="268451285" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="936" pc="268451334" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="938" pc="268451338" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="939" pc="268451338" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="940" pc="268451369" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="941" pc="268451387" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="942" pc="268451399" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="944" pc="268451412" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="945" pc="268451412" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="946" pc="268451423" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="948" pc="268451433" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="952" pc="268451451" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="953" pc="268451463" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="56" lineNum="956" pc="268451476" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="57" lineNum="959" pc="268451525" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="57" lineNum="961" pc="268451529" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="57" lineNum="963" pc="268451552" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="57" lineNum="965" pc="268451570" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="57" lineNum="966" pc="268451582" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="57" lineNum="969" pc="268451595" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="58" lineNum="972" pc="268451644" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="58" lineNum="973" pc="268451648" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="58" lineNum="974" pc="268451665" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="58" lineNum="975" pc="268451697" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="58" lineNum="976" pc="268451708" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="58" lineNum="979" pc="268451745" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="58" lineNum="988" pc="268451893" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="993" pc="268451908" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="994" pc="268451912" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="995" pc="268451929" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="996" pc="268451968" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="997" pc="268451978" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="998" pc="268451994" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1001" pc="268452010" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1002" pc="268452036" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1003" pc="268452046" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1006" pc="268452082" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1007" pc="268452093" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1010" pc="268452106" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1011" pc="268452113" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1012" pc="268452150" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1014" pc="268452202" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1015" pc="268452216" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1016" pc="268452226" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1017" pc="268452248" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1018" pc="268452271" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1019" pc="268452290" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1022" pc="268452312" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1023" pc="268452326" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1024" pc="268452336" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1025" pc="268452358" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1026" pc="268452381" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1027" pc="268452400" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1031" pc="268452422" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="59" lineNum="1032" pc="268452452" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="60" lineNum="1035" pc="268452549" symbol="drawNumber"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="60" lineNum="1037" pc="268452553" symbol="drawNumber"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="60" lineNum="1046" pc="268452694" symbol="drawNumber"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="61" lineNum="1049" pc="268452709" symbol="drawNumberAngle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="61" lineNum="1050" pc="268452713" symbol="drawNumberAngle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="61" lineNum="1052" pc="268452725" symbol="drawNumberAngle"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1058" pc="268452929" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1059" pc="268452933" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1060" pc="268452950" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1061" pc="268452960" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1062" pc="268452977" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1063" pc="268452993" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1064" pc="268453010" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1066" pc="268453026" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1068" pc="268453042" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1069" pc="268453059" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1070" pc="268453069" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1071" pc="268453086" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1072" pc="268453102" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1073" pc="268453119" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1075" pc="268453135" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1077" pc="268453151" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1078" pc="268453168" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1079" pc="268453178" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1080" pc="268453195" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1081" pc="268453211" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1082" pc="268453228" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1084" pc="268453244" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="62" lineNum="1087" pc="268453260" symbol="updateNumberFontHeight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1093" pc="268453274" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1094" pc="268453278" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1095" pc="268453295" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1096" pc="268453317" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1097" pc="268453339" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1098" pc="268453361" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1099" pc="268453383" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1100" pc="268453405" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1101" pc="268453430" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1102" pc="268453447" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1103" pc="268453469" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1104" pc="268453491" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1105" pc="268453513" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1106" pc="268453535" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1107" pc="268453557" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1109" pc="268453582" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1110" pc="268453604" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1111" pc="268453626" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1112" pc="268453648" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1113" pc="268453670" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="63" lineNum="1114" pc="268453692" symbol="updateBoxSizes"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="64" lineNum="1118" pc="268453715" symbol="resetBufferedBitmap"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="64" lineNum="1119" pc="268453719" symbol="resetBufferedBitmap"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="65" lineNum="1125" pc="268453792" symbol="clearBufferedBitmap"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="65" lineNum="1126" pc="268453796" symbol="clearBufferedBitmap"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="66" lineNum="1132" pc="268453806" symbol="onShow"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="67" lineNum="1138" pc="268453811" symbol="onHide"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="68" lineNum="1142" pc="268453816" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="68" lineNum="1143" pc="268453820" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="69" lineNum="1147" pc="268453831" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Simple-Times\\source\\SimpleAnalogView.mc" id="69" lineNum="1148" pc="268453835" symbol="onEnterSleep"/>
+<entry filename="Rez" id="75" lineNum="30" pc="268453846" symbol="WatchFace"/>
+<entry filename="Rez" id="75" lineNum="32" pc="268453858" symbol="WatchFace"/>
+<entry filename="Rez" id="75" lineNum="33" pc="268453882" symbol="WatchFace"/>
+<entry filename="Rez" id="75" lineNum="35" pc="268454045" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="217" method="true" symbol="clearBufferedBitmap"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="168" symbol="isDistanceMetric"/>
+<entry field="true" id="32" symbol="CenturyFontLarge"/>
+<entry id="8390101" object="true" symbol="BufferedBitmap"/>
+<entry field="true" id="31" symbol="CenturyFontMedium"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="116" symbol="relative_sec_hand_stroke"/>
+<entry field="true" id="163" symbol="lowPower"/>
+<entry field="true" id="174" symbol="show_status_bar"/>
+<entry field="true" id="172" symbol="show_nums_at"/>
+<entry field="true" id="140" symbol="screensaver_speed_mult"/>
+<entry field="true" id="19" symbol="MediumFont"/>
+<entry field="true" id="171" symbol="show_min_ticks"/>
+<entry field="true" id="112" symbol="relative_min_hand_length_extended"/>
+<entry field="true" id="173" symbol="date_on_right"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry field="true" id="128" symbol="time_size_small"/>
+<entry id="203" method="true" symbol="drawDate"/>
+<entry id="189" method="true" symbol="getBoxLocX"/>
+<entry field="true" id="20" symbol="BigFont"/>
+<entry id="216" method="true" symbol="resetBufferedBitmap"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="156" symbol="text_color"/>
+<entry id="207" method="true" symbol="drawCaloriesBox"/>
+<entry field="true" id="142" symbol="total_colors"/>
+<entry field="true" id="160" symbol="hand_style"/>
+<entry field="true" id="129" symbol="time_size_medium"/>
+<entry field="true" id="30" symbol="CenturyFontSmall"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="179" symbol="battery_size"/>
+<entry field="true" id="120" symbol="box_padding"/>
+<entry field="true" id="133" symbol="floors_size_large"/>
+<entry field="true" id="66" symbol="NumberStyleTitle"/>
+<entry field="true" id="149" symbol="offScreenBuffer"/>
+<entry field="true" id="42" symbol="ShowSecondHandTitle"/>
+<entry field="true" id="101" symbol="relative_min_tick_length"/>
+<entry field="true" id="60" symbol="HandStyleTitle"/>
+<entry field="true" id="107" symbol="relative_min_triangle_tick_size"/>
+<entry field="true" id="56" symbol="MF_2"/>
+<entry field="true" id="64" symbol="MF_1"/>
+<entry field="true" id="63" symbol="MF_0"/>
+<entry id="8390104" method="true" symbol="clearClip"/>
+<entry field="true" id="78" symbol="RBD_6"/>
+<entry field="true" id="76" symbol="RBD_5"/>
+<entry field="true" id="80" symbol="RBD_4"/>
+<entry field="true" id="79" symbol="RBD_3"/>
+<entry field="true" id="74" symbol="RBD_2"/>
+<entry field="true" id="73" symbol="RBD_1"/>
+<entry field="true" id="75" symbol="RBD_0"/>
+<entry field="true" id="27" symbol="CambriaFontLarge"/>
+<entry field="true" id="8389795" symbol="doNotDisturb"/>
+<entry field="true" id="158" symbol="tick_style"/>
+<entry field="true" id="22" symbol="IconFont2"/>
+<entry field="true" id="8390461" symbol="charging"/>
+<entry field="true" id="54" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="131" symbol="floors_size_small"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="72" symbol="AlwaysOnTitle"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="146" method="true" symbol="getMainFont"/>
+<entry id="186" method="true" symbol="drawBox"/>
+<entry field="true" id="58" symbol="HourMinHandColorTitle"/>
+<entry id="181" method="true" symbol="updateValues"/>
+<entry field="true" id="29" symbol="CambriaFontSmall"/>
+<entry field="true" id="180" symbol="status_box_size"/>
+<entry field="true" id="106" symbol="relative_hour_triangle_tick_size"/>
+<entry field="true" id="62" symbol="Dow7"/>
+<entry field="true" id="61" symbol="Dow6"/>
+<entry field="true" id="59" symbol="Dow5"/>
+<entry field="true" id="57" symbol="Dow4"/>
+<entry field="true" id="55" symbol="Dow3"/>
+<entry field="true" id="53" symbol="Dow1"/>
+<entry field="true" id="52" symbol="Dow0"/>
+<entry id="206" method="true" symbol="drawFloorsBox"/>
+<entry field="true" id="69" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="166" symbol="partialUpdates"/>
+<entry id="208" method="true" symbol="drawDistanceBox"/>
+<entry field="true" id="170" symbol="showBoxes"/>
+<entry field="true" id="103" symbol="relative_min_tick_stroke"/>
+<entry field="true" id="141" symbol="screensaver_bounds"/>
+<entry id="9" module="true" symbol="globals/Constants"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="35" symbol="HS4"/>
+<entry field="true" id="36" symbol="HS3"/>
+<entry field="true" id="33" symbol="HS2"/>
+<entry field="true" id="34" symbol="HS1"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="136" symbol="battery_size_large"/>
+<entry id="204" method="true" symbol="drawTimeBox"/>
+<entry field="true" id="165" symbol="lowMemDevice"/>
+<entry field="true" id="71" symbol="SecondHandColorTitle"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="193" method="true" symbol="drawRomanNumerals"/>
+<entry field="true" id="41" symbol="NS4"/>
+<entry field="true" id="43" symbol="NS3"/>
+<entry field="true" id="38" symbol="NS2"/>
+<entry field="true" id="40" symbol="NS1"/>
+<entry field="true" id="70" symbol="BoxColorTitle"/>
+<entry id="13" object="true" symbol="Constants"/>
+<entry field="true" id="118" symbol="relative_padding2"/>
+<entry id="214" method="true" symbol="updateNumberFontHeight"/>
+<entry field="true" id="37" symbol="DORT_2"/>
+<entry field="true" id="94" symbol="DORT_1"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="134" symbol="battery_size_small"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry id="10" module="true" symbol="globals/Helpers"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="124" symbol="dow_size_large"/>
+<entry id="196" method="true" symbol="drawLineHand"/>
+<entry id="184" method="true" symbol="drawNumbers"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="21" symbol="IconFont"/>
+<entry field="true" id="108" symbol="relative_hour_hand_length"/>
+<entry field="true" id="46" symbol="TS4"/>
+<entry field="true" id="47" symbol="TS3"/>
+<entry field="true" id="44" symbol="TS2"/>
+<entry field="true" id="45" symbol="TS1"/>
+<entry field="true" id="119" symbol="relative_center_radius"/>
+<entry field="true" id="177" symbol="time_size"/>
+<entry id="211" method="true" symbol="drawScreenSaver"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="150" symbol="clip"/>
+<entry field="true" id="123" symbol="dow_size_medium"/>
+<entry field="true" id="176" symbol="date_size"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="213" method="true" symbol="drawNumberAngle"/>
+<entry id="195" method="true" symbol="drawCenturyNumbers"/>
+<entry field="true" id="67" symbol="ShowNumbersAtTitle"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="135" symbol="battery_size_medium"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="105" symbol="relative_hour_circle_tick_size"/>
+<entry field="true" id="98" symbol="ShowTicksTitle"/>
+<entry field="true" id="24" symbol="RomanFontLarge"/>
+<entry field="true" id="90" symbol="ShowMinTicksTitle"/>
+<entry field="true" id="153" symbol="box_color"/>
+<entry field="true" id="127" symbol="date_size_large"/>
+<entry field="true" id="122" symbol="dow_size_small"/>
+<entry field="true" id="113" symbol="relative_sec_hand_length_extended"/>
+<entry field="true" id="77" symbol="Image1"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="190" method="true" symbol="drawDashTicks"/>
+<entry field="true" id="167" symbol="is24"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="83" symbol="DateOnRightTitle"/>
+<entry field="true" id="26" symbol="RomanFontSmall"/>
+<entry id="200" method="true" symbol="drawSecondHand"/>
+<entry field="true" id="159" symbol="number_style"/>
+<entry field="true" id="125" symbol="date_size_small"/>
+<entry field="true" id="121" symbol="text_padding"/>
+<entry field="true" id="161" symbol="showTicks"/>
+<entry id="11" object="true" symbol="SimpleAnalogApp"/>
+<entry id="182" method="true" symbol="drawBackground"/>
+<entry field="true" id="138" symbol="status_box_size_medium"/>
+<entry field="true" id="114" symbol="relative_hour_hand_stroke"/>
+<entry field="true" id="152" symbol="foreground_color"/>
+<entry field="true" id="109" symbol="relative_min_hand_length"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="169" symbol="showSecondHand"/>
+<entry id="143" method="true" symbol="centerOnLeft"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="28" symbol="CambriaFontMedium"/>
+<entry field="true" id="92" symbol="Color9"/>
+<entry field="true" id="95" symbol="Color8"/>
+<entry field="true" id="96" symbol="Color7"/>
+<entry field="true" id="84" symbol="Color6"/>
+<entry field="true" id="85" symbol="Color5"/>
+<entry field="true" id="86" symbol="Color4"/>
+<entry field="true" id="88" symbol="Color3"/>
+<entry field="true" id="81" symbol="Color2"/>
+<entry field="true" id="82" symbol="Color1"/>
+<entry field="true" id="50" symbol="ShowStatusBarTitle"/>
+<entry field="true" id="48" symbol="ShowBoxesTitle"/>
+<entry field="true" id="51" symbol="RightBoxDipslayTitle"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="210" method="true" symbol="drawTextBox"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="178" symbol="floors_size"/>
+<entry field="true" id="100" symbol="relative_hour_tick_length"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="199" method="true" symbol="drawArrowHand"/>
+<entry field="true" id="17" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry field="true" id="25" symbol="RomanFontMedium"/>
+<entry id="205" method="true" symbol="drawStepBox"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="139" symbol="status_box_size_large"/>
+<entry field="true" id="39" symbol="TextColorTitle"/>
+<entry field="true" id="175" symbol="dow_size"/>
+<entry id="145" method="true" symbol="getDateString"/>
+<entry field="true" id="104" symbol="relative_min_circle_tick_size"/>
+<entry id="183" method="true" symbol="drawTicks"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="68" symbol="BackgroundColorTitle"/>
+<entry id="188" method="true" symbol="getColor"/>
+<entry field="true" id="8391194" symbol="requiresBurnInProtection"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="148" method="true" symbol="getNumberFont"/>
+<entry field="true" id="8389872" symbol="floorsClimbed"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="192" method="true" symbol="drawTicksTriangle"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="137" symbol="status_box_size_small"/>
+<entry field="true" id="115" symbol="relative_min_hand_stroke"/>
+<entry field="true" id="126" symbol="date_size_medium"/>
+<entry field="true" id="162" symbol="number_font_height"/>
+<entry id="144" method="true" symbol="centerOnRight"/>
+<entry id="212" method="true" symbol="drawNumber"/>
+<entry field="true" id="151" symbol="background_color"/>
+<entry field="true" id="157" symbol="RBD"/>
+<entry field="true" id="164" symbol="needsProtection"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="12" object="true" symbol="Helpers"/>
+<entry field="true" id="110" symbol="relative_sec_hand_length"/>
+<entry id="202" method="true" symbol="drawStatusBox"/>
+<entry field="true" id="23" symbol="BigIconFont"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="99" symbol="relative_tick_stroke"/>
+<entry field="true" id="65" symbol="ForegroundColorTitle"/>
+<entry field="true" id="102" symbol="relative_hour_tick_stroke"/>
+<entry field="true" id="132" symbol="floors_size_medium"/>
+<entry id="198" method="true" symbol="drawLongArrowHand"/>
+<entry id="201" method="true" symbol="drawSecondHandClip"/>
+<entry id="197" method="true" symbol="drawCircleHand"/>
+<entry id="185" method="true" symbol="drawHands"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="191" method="true" symbol="drawTicksCircle"/>
+<entry id="215" method="true" symbol="updateBoxSizes"/>
+<entry id="147" method="true" symbol="getIconFont"/>
+<entry id="187" method="true" symbol="drawDateBox"/>
+<entry id="209" method="true" symbol="drawBatteryBox"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry field="true" id="97" symbol="Color14"/>
+<entry field="true" id="91" symbol="Color13"/>
+<entry field="true" id="93" symbol="Color12"/>
+<entry field="true" id="87" symbol="Color11"/>
+<entry field="true" id="89" symbol="Color10"/>
+<entry field="true" id="18" symbol="MainFont"/>
+<entry field="true" id="111" symbol="relative_hour_hand_length_extended"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="194" method="true" symbol="drawPlainNumbers"/>
+<entry field="true" id="154" symbol="second_hand_color"/>
+<entry field="true" id="49" symbol="TickStyleTitle"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="117" symbol="relative_padding"/>
+<entry field="true" id="130" symbol="time_size_large"/>
+<entry field="true" id="155" symbol="hour_min_hand_color"/>
+<entry id="14" object="true" symbol="SimpleAnalogView"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry arg="true" endPc="268435563" name="day" stackId="1" startPc="268435552"/>
+<entry arg="true" endPc="268435704" name="width" stackId="1" startPc="268435563"/>
+<entry arg="true" endPc="268435845" name="width" stackId="1" startPc="268435704"/>
+<entry endPc="268436349" name="number_font" stackId="3" startPc="268435849"/>
+<entry arg="true" endPc="268436350" name="number_style" stackId="2" startPc="268435845"/>
+<entry arg="true" endPc="268436350" name="width" stackId="1" startPc="268435845"/>
+<entry arg="true" endPc="268436628" name="tick_style" stackId="3" startPc="268436350"/>
+<entry arg="true" endPc="268436628" name="number_style" stackId="2" startPc="268436350"/>
+<entry arg="true" endPc="268436628" name="size" stackId="1" startPc="268436350"/>
+<entry arg="true" endPc="268436628" name="width" stackId="4" startPc="268436350"/>
+<entry arg="true" endPc="268436924" name="tick_style" stackId="3" startPc="268436628"/>
+<entry arg="true" endPc="268436924" name="number_style" stackId="2" startPc="268436628"/>
+<entry arg="true" endPc="268436924" name="size" stackId="1" startPc="268436628"/>
+<entry arg="true" endPc="268436924" name="width" stackId="4" startPc="268436628"/>
+<entry endPc="268436972" name="dictionary" stackId="1" startPc="268436931"/>
+<entry arg="true" endPc="268437043" name="dc" stackId="1" startPc="268436973"/>
+<entry arg="true" endPc="268437361" name="dc" stackId="1" startPc="268437071"/>
+<entry arg="true" endPc="268437831" name="dc" stackId="1" startPc="268437361"/>
+<entry arg="true" endPc="268437864" name="dc" stackId="1" startPc="268437831"/>
+<entry endPc="268438772" name="distanceMetric" stackId="3" startPc="268437868"/>
+<entry endPc="268438772" name="always_on" stackId="4" startPc="268437868"/>
+<entry endPc="268438772" name="UMF" stackId="2" startPc="268437868"/>
+<entry endPc="268438772" name="app" stackId="1" startPc="268437868"/>
+<entry arg="true" endPc="268438985" name="dc" stackId="1" startPc="268438773"/>
+<entry endPc="268439664" name="draw_numbers" stackId="2" startPc="268438989"/>
+<entry arg="true" endPc="268439665" name="dc" stackId="1" startPc="268438985"/>
+<entry arg="true" endPc="268439772" name="dc" stackId="1" startPc="268439665"/>
+<entry endPc="268440546" name="min_hand_length" stackId="7" startPc="268439776"/>
+<entry endPc="268440546" name="hours" stackId="3" startPc="268439776"/>
+<entry endPc="268440546" name="minutes" stackId="4" startPc="268439776"/>
+<entry endPc="268440546" name="hour_hand_length" stackId="6" startPc="268439776"/>
+<entry endPc="268440546" name="clockTime" stackId="2" startPc="268439776"/>
+<entry endPc="268440546" name="seconds" stackId="5" startPc="268439776"/>
+<entry arg="true" endPc="268440547" name="dc" stackId="1" startPc="268439772"/>
+<entry arg="true" endPc="268441116" name="dc" stackId="1" startPc="268440547"/>
+<entry arg="true" endPc="268441355" name="dc" stackId="1" startPc="268441116"/>
+<entry arg="true" endPc="268441729" name="size" stackId="1" startPc="268441355"/>
+<entry arg="true" endPc="268442157" name="size" stackId="1" startPc="268441729"/>
+<entry arg="true" endPc="268442514" name="num" stackId="1" startPc="268442157"/>
+<entry arg="true" endPc="268442586" name="width" stackId="1" startPc="268442514"/>
+<entry endPc="268443603" name="x2" stackId="16" startPc="268443377"/>
+<entry endPc="268443603" name="x1" stackId="14" startPc="268443377"/>
+<entry endPc="268443603" name="y2" stackId="17" startPc="268443377"/>
+<entry endPc="268443603" name="y1" stackId="15" startPc="268443377"/>
+<entry endPc="268443603" name="angle" stackId="13" startPc="268443377"/>
+<entry endPc="268443606" name="cond2" stackId="12" startPc="268442666"/>
+<entry endPc="268443606" name="cond1" stackId="11" startPc="268442666"/>
+<entry endPc="268443606" name="diff" stackId="10" startPc="268442666"/>
+<entry endPc="268443619" name="i" stackId="9" startPc="268442666"/>
+<entry endPc="268443619" name="center" stackId="8" startPc="268442590"/>
+<entry endPc="268443619" name="tickAngle" stackId="7" startPc="268442590"/>
+<entry arg="true" endPc="268443620" name="dc" stackId="1" startPc="268442586"/>
+<entry arg="true" endPc="268443620" name="hour_ticks" stackId="6" startPc="268442586"/>
+<entry arg="true" endPc="268443620" name="num" stackId="4" startPc="268442586"/>
+<entry arg="true" endPc="268443620" name="draw_numbers" stackId="5" startPc="268442586"/>
+<entry arg="true" endPc="268443620" name="length" stackId="2" startPc="268442586"/>
+<entry arg="true" endPc="268443620" name="stroke" stackId="3" startPc="268442586"/>
+<entry endPc="268444143" name="x1" stackId="14" startPc="268443981"/>
+<entry endPc="268444143" name="y1" stackId="15" startPc="268443981"/>
+<entry endPc="268444143" name="angle" stackId="13" startPc="268443981"/>
+<entry endPc="268444146" name="cond2" stackId="12" startPc="268443700"/>
+<entry endPc="268444146" name="cond1" stackId="11" startPc="268443700"/>
+<entry endPc="268444146" name="diff" stackId="10" startPc="268443700"/>
+<entry endPc="268444159" name="i" stackId="9" startPc="268443700"/>
+<entry endPc="268444159" name="center" stackId="8" startPc="268443624"/>
+<entry endPc="268444159" name="tickAngle" stackId="7" startPc="268443624"/>
+<entry arg="true" endPc="268444160" name="dc" stackId="1" startPc="268443620"/>
+<entry arg="true" endPc="268444160" name="hour_ticks" stackId="6" startPc="268443620"/>
+<entry arg="true" endPc="268444160" name="num" stackId="4" startPc="268443620"/>
+<entry arg="true" endPc="268444160" name="size" stackId="2" startPc="268443620"/>
+<entry arg="true" endPc="268444160" name="draw_numbers" stackId="5" startPc="268443620"/>
+<entry arg="true" endPc="268444160" name="stroke" stackId="3" startPc="268443620"/>
+<entry endPc="268444971" name="x3" stackId="19" startPc="268444521"/>
+<entry endPc="268444971" name="x2" stackId="17" startPc="268444521"/>
+<entry endPc="268444971" name="y3" stackId="20" startPc="268444521"/>
+<entry endPc="268444971" name="x1" stackId="15" startPc="268444521"/>
+<entry endPc="268444971" name="y2" stackId="18" startPc="268444521"/>
+<entry endPc="268444971" name="y1" stackId="16" startPc="268444521"/>
+<entry endPc="268444971" name="offset" stackId="14" startPc="268444521"/>
+<entry endPc="268444971" name="angle" stackId="13" startPc="268444521"/>
+<entry endPc="268444974" name="cond2" stackId="12" startPc="268444240"/>
+<entry endPc="268444974" name="cond1" stackId="11" startPc="268444240"/>
+<entry endPc="268444974" name="diff" stackId="10" startPc="268444240"/>
+<entry endPc="268444987" name="i" stackId="9" startPc="268444240"/>
+<entry endPc="268444987" name="center" stackId="8" startPc="268444164"/>
+<entry endPc="268444987" name="tickAngle" stackId="7" startPc="268444164"/>
+<entry arg="true" endPc="268444988" name="dc" stackId="1" startPc="268444160"/>
+<entry arg="true" endPc="268444988" name="hour_ticks" stackId="6" startPc="268444160"/>
+<entry arg="true" endPc="268444988" name="num" stackId="4" startPc="268444160"/>
+<entry arg="true" endPc="268444988" name="draw_numbers" stackId="5" startPc="268444160"/>
+<entry arg="true" endPc="268444988" name="length" stackId="2" startPc="268444160"/>
+<entry arg="true" endPc="268444988" name="stroke" stackId="3" startPc="268444160"/>
+<entry endPc="268445391" name="pad" stackId="2" startPc="268444992"/>
+<entry arg="true" endPc="268445392" name="dc" stackId="1" startPc="268444988"/>
+<entry endPc="268445522" name="pad" stackId="2" startPc="268445396"/>
+<entry arg="true" endPc="268445523" name="dc" stackId="1" startPc="268445392"/>
+<entry endPc="268445955" name="pad" stackId="2" startPc="268445527"/>
+<entry arg="true" endPc="268445956" name="dc" stackId="1" startPc="268445523"/>
+<entry endPc="268446078" name="section" stackId="10" startPc="268446038"/>
+<entry endPc="268446210" name="center" stackId="9" startPc="268445960"/>
+<entry endPc="268446210" name="x2" stackId="12" startPc="268445960"/>
+<entry endPc="268446210" name="y2" stackId="13" startPc="268445960"/>
+<entry endPc="268446210" name="divider" stackId="11" startPc="268445960"/>
+<entry endPc="268446210" name="angle" stackId="8" startPc="268445960"/>
+<entry arg="true" endPc="268446211" name="offsetNum" stackId="4" startPc="268445956"/>
+<entry arg="true" endPc="268446211" name="dc" stackId="1" startPc="268445956"/>
+<entry arg="true" endPc="268446211" name="num" stackId="2" startPc="268445956"/>
+<entry arg="true" endPc="268446211" name="length" stackId="6" startPc="268445956"/>
+<entry arg="true" endPc="268446211" name="offsetTime" stackId="5" startPc="268445956"/>
+<entry arg="true" endPc="268446211" name="stroke" stackId="7" startPc="268445956"/>
+<entry arg="true" endPc="268446211" name="time" stackId="3" startPc="268445956"/>
+<entry endPc="268446333" name="section" stackId="10" startPc="268446293"/>
+<entry endPc="268446635" name="offsety" stackId="19" startPc="268446215"/>
+<entry endPc="268446635" name="center" stackId="9" startPc="268446215"/>
+<entry endPc="268446635" name="offsetx" stackId="18" startPc="268446215"/>
+<entry endPc="268446635" name="x2" stackId="16" startPc="268446215"/>
+<entry endPc="268446635" name="angle" stackId="8" startPc="268446215"/>
+<entry endPc="268446635" name="length_from_end" stackId="12" startPc="268446215"/>
+<entry endPc="268446635" name="radius" stackId="13" startPc="268446215"/>
+<entry endPc="268446635" name="length1_multiplier" stackId="11" startPc="268446215"/>
+<entry endPc="268446635" name="y2" stackId="17" startPc="268446215"/>
+<entry endPc="268446635" name="y" stackId="15" startPc="268446215"/>
+<entry endPc="268446635" name="x" stackId="14" startPc="268446215"/>
+<entry arg="true" endPc="268446636" name="offsetNum" stackId="4" startPc="268446211"/>
+<entry arg="true" endPc="268446636" name="dc" stackId="1" startPc="268446211"/>
+<entry arg="true" endPc="268446636" name="num" stackId="2" startPc="268446211"/>
+<entry arg="true" endPc="268446636" name="length" stackId="6" startPc="268446211"/>
+<entry arg="true" endPc="268446636" name="offsetTime" stackId="5" startPc="268446211"/>
+<entry arg="true" endPc="268446636" name="stroke" stackId="7" startPc="268446211"/>
+<entry arg="true" endPc="268446636" name="time" stackId="3" startPc="268446211"/>
+<entry endPc="268446758" name="section" stackId="10" startPc="268446718"/>
+<entry endPc="268447359" name="x" stackId="11" startPc="268446640"/>
+<entry endPc="268447359" name="center" stackId="9" startPc="268446640"/>
+<entry endPc="268447359" name="x3" stackId="15" startPc="268446640"/>
+<entry endPc="268447359" name="x2" stackId="13" startPc="268446640"/>
+<entry endPc="268447359" name="y3" stackId="16" startPc="268446640"/>
+<entry endPc="268447359" name="y2" stackId="14" startPc="268446640"/>
+<entry endPc="268447359" name="angle" stackId="8" startPc="268446640"/>
+<entry endPc="268447359" name="y" stackId="12" startPc="268446640"/>
+<entry arg="true" endPc="268447360" name="offsetNum" stackId="4" startPc="268446636"/>
+<entry arg="true" endPc="268447360" name="dc" stackId="1" startPc="268446636"/>
+<entry arg="true" endPc="268447360" name="num" stackId="2" startPc="268446636"/>
+<entry arg="true" endPc="268447360" name="length" stackId="6" startPc="268446636"/>
+<entry arg="true" endPc="268447360" name="offsetTime" stackId="5" startPc="268446636"/>
+<entry arg="true" endPc="268447360" name="stroke" stackId="7" startPc="268446636"/>
+<entry arg="true" endPc="268447360" name="time" stackId="3" startPc="268446636"/>
+<entry endPc="268447489" name="section" stackId="11" startPc="268447449"/>
+<entry endPc="268448674" name="x3" stackId="16" startPc="268447364"/>
+<entry endPc="268448674" name="center" stackId="9" startPc="268447364"/>
+<entry endPc="268448674" name="x2" stackId="14" startPc="268447364"/>
+<entry endPc="268448674" name="end_multiplier" stackId="10" startPc="268447364"/>
+<entry endPc="268448674" name="angle" stackId="8" startPc="268447364"/>
+<entry endPc="268448674" name="y5" stackId="21" startPc="268447364"/>
+<entry endPc="268448674" name="y4" stackId="19" startPc="268447364"/>
+<entry endPc="268448674" name="y3" stackId="17" startPc="268447364"/>
+<entry endPc="268448674" name="y" stackId="13" startPc="268447364"/>
+<entry endPc="268448674" name="y2" stackId="15" startPc="268447364"/>
+<entry endPc="268448674" name="x" stackId="12" startPc="268447364"/>
+<entry endPc="268448674" name="x5" stackId="20" startPc="268447364"/>
+<entry endPc="268448674" name="x4" stackId="18" startPc="268447364"/>
+<entry arg="true" endPc="268448675" name="offsetNum" stackId="4" startPc="268447360"/>
+<entry arg="true" endPc="268448675" name="dc" stackId="1" startPc="268447360"/>
+<entry arg="true" endPc="268448675" name="num" stackId="2" startPc="268447360"/>
+<entry arg="true" endPc="268448675" name="length" stackId="6" startPc="268447360"/>
+<entry arg="true" endPc="268448675" name="offsetTime" stackId="5" startPc="268447360"/>
+<entry arg="true" endPc="268448675" name="stroke" stackId="7" startPc="268447360"/>
+<entry arg="true" endPc="268448675" name="time" stackId="3" startPc="268447360"/>
+<entry endPc="268448969" name="hours" stackId="3" startPc="268448679"/>
+<entry endPc="268448969" name="minutes" stackId="4" startPc="268448679"/>
+<entry endPc="268448969" name="sec_hand_length" stackId="6" startPc="268448679"/>
+<entry endPc="268448969" name="clockTime" stackId="2" startPc="268448679"/>
+<entry endPc="268448969" name="seconds" stackId="5" startPc="268448679"/>
+<entry arg="true" endPc="268448970" name="dc" stackId="1" startPc="268448675"/>
+<entry endPc="268449698" name="padding2" stackId="15" startPc="268448974"/>
+<entry endPc="268449698" name="center" stackId="7" startPc="268448974"/>
+<entry endPc="268449698" name="width2" stackId="12" startPc="268448974"/>
+<entry endPc="268449698" name="angle" stackId="6" startPc="268448974"/>
+<entry endPc="268449698" name="height2" stackId="13" startPc="268448974"/>
+<entry endPc="268449698" name="sinval" stackId="9" startPc="268448974"/>
+<entry endPc="268449698" name="y" stackId="11" startPc="268448974"/>
+<entry endPc="268449698" name="padding" stackId="14" startPc="268448974"/>
+<entry endPc="268449698" name="x" stackId="10" startPc="268448974"/>
+<entry endPc="268449698" name="cosval" stackId="8" startPc="268448974"/>
+<entry arg="true" endPc="268449699" name="dc" stackId="1" startPc="268448970"/>
+<entry arg="true" endPc="268449699" name="num" stackId="2" startPc="268448970"/>
+<entry arg="true" endPc="268449699" name="length" stackId="4" startPc="268448970"/>
+<entry arg="true" endPc="268449699" name="stroke" stackId="5" startPc="268448970"/>
+<entry arg="true" endPc="268449699" name="time" stackId="3" startPc="268448970"/>
+<entry endPc="268450281" name="status" stackId="6" startPc="268449703"/>
+<entry endPc="268450281" name="status_string" stackId="4" startPc="268449703"/>
+<entry endPc="268450281" name="boxText" stackId="7" startPc="268449703"/>
+<entry endPc="268450281" name="settings" stackId="5" startPc="268449703"/>
+<entry arg="true" endPc="268450282" name="x" stackId="2" startPc="268449699"/>
+<entry arg="true" endPc="268450282" name="dc" stackId="1" startPc="268449699"/>
+<entry arg="true" endPc="268450282" name="y" stackId="3" startPc="268449699"/>
+<entry endPc="268450583" name="day_string" stackId="6" startPc="268450286"/>
+<entry endPc="268450583" name="dowString" stackId="5" startPc="268450286"/>
+<entry endPc="268450583" name="info" stackId="4" startPc="268450286"/>
+<entry arg="true" endPc="268450584" name="x" stackId="2" startPc="268450282"/>
+<entry arg="true" endPc="268450584" name="dc" stackId="1" startPc="268450282"/>
+<entry arg="true" endPc="268450584" name="y" stackId="3" startPc="268450282"/>
+<entry endPc="268450834" name="hours" stackId="6" startPc="268450588"/>
+<entry endPc="268450834" name="hourString" stackId="7" startPc="268450588"/>
+<entry endPc="268450834" name="clockTime" stackId="5" startPc="268450588"/>
+<entry endPc="268450834" name="info" stackId="4" startPc="268450588"/>
+<entry arg="true" endPc="268450835" name="x" stackId="2" startPc="268450584"/>
+<entry arg="true" endPc="268450835" name="dc" stackId="1" startPc="268450584"/>
+<entry arg="true" endPc="268450835" name="y" stackId="3" startPc="268450584"/>
+<entry endPc="268450997" name="steps" stackId="4" startPc="268450839"/>
+<entry endPc="268450997" name="stepString" stackId="5" startPc="268450839"/>
+<entry arg="true" endPc="268450998" name="x" stackId="2" startPc="268450835"/>
+<entry arg="true" endPc="268450998" name="dc" stackId="1" startPc="268450835"/>
+<entry arg="true" endPc="268450998" name="y" stackId="3" startPc="268450835"/>
+<entry endPc="268451170" name="floors" stackId="4" startPc="268451002"/>
+<entry endPc="268451170" name="floorString" stackId="5" startPc="268451002"/>
+<entry arg="true" endPc="268451171" name="x" stackId="2" startPc="268450998"/>
+<entry arg="true" endPc="268451171" name="dc" stackId="1" startPc="268450998"/>
+<entry arg="true" endPc="268451171" name="y" stackId="3" startPc="268450998"/>
+<entry endPc="268451333" name="calorieString" stackId="5" startPc="268451175"/>
+<entry endPc="268451333" name="calories" stackId="4" startPc="268451175"/>
+<entry arg="true" endPc="268451334" name="x" stackId="2" startPc="268451171"/>
+<entry arg="true" endPc="268451334" name="dc" stackId="1" startPc="268451171"/>
+<entry arg="true" endPc="268451334" name="y" stackId="3" startPc="268451171"/>
+<entry endPc="268451524" name="distanceString" stackId="5" startPc="268451338"/>
+<entry endPc="268451524" name="distance" stackId="4" startPc="268451338"/>
+<entry arg="true" endPc="268451525" name="x" stackId="2" startPc="268451334"/>
+<entry arg="true" endPc="268451525" name="dc" stackId="1" startPc="268451334"/>
+<entry arg="true" endPc="268451525" name="y" stackId="3" startPc="268451334"/>
+<entry endPc="268451643" name="batteryString" stackId="5" startPc="268451529"/>
+<entry endPc="268451643" name="battery" stackId="4" startPc="268451529"/>
+<entry arg="true" endPc="268451644" name="x" stackId="2" startPc="268451525"/>
+<entry arg="true" endPc="268451644" name="dc" stackId="1" startPc="268451525"/>
+<entry arg="true" endPc="268451644" name="y" stackId="3" startPc="268451525"/>
+<entry endPc="268451907" name="boxText" stackId="7" startPc="268451648"/>
+<entry arg="true" endPc="268451908" name="height" stackId="6" startPc="268451644"/>
+<entry arg="true" endPc="268451908" name="x" stackId="3" startPc="268451644"/>
+<entry arg="true" endPc="268451908" name="dc" stackId="1" startPc="268451644"/>
+<entry arg="true" endPc="268451908" name="width" stackId="5" startPc="268451644"/>
+<entry arg="true" endPc="268451908" name="text" stackId="2" startPc="268451644"/>
+<entry arg="true" endPc="268451908" name="y" stackId="4" startPc="268451644"/>
+<entry endPc="268452548" name="hour" stackId="4" startPc="268451912"/>
+<entry endPc="268452548" name="ssloc" stackId="5" startPc="268451912"/>
+<entry endPc="268452548" name="timeString" stackId="3" startPc="268451912"/>
+<entry endPc="268452548" name="clockTime" stackId="2" startPc="268451912"/>
+<entry endPc="268452548" name="pad" stackId="7" startPc="268451912"/>
+<entry endPc="268452548" name="speed_mult" stackId="6" startPc="268451912"/>
+<entry arg="true" endPc="268452549" name="dc" stackId="1" startPc="268451908"/>
+<entry endPc="268452708" name="boxText" stackId="5" startPc="268452553"/>
+<entry arg="true" endPc="268452709" name="x" stackId="3" startPc="268452549"/>
+<entry arg="true" endPc="268452709" name="dc" stackId="1" startPc="268452549"/>
+<entry arg="true" endPc="268452709" name="text" stackId="2" startPc="268452549"/>
+<entry arg="true" endPc="268452709" name="y" stackId="4" startPc="268452549"/>
+<entry arg="true" endPc="268452929" name="dc" stackId="1" startPc="268452709"/>
+<entry arg="true" endPc="268452929" name="num_text" stackId="4" startPc="268452709"/>
+<entry arg="true" endPc="268452929" name="pad" stackId="3" startPc="268452709"/>
+<entry arg="true" endPc="268452929" name="angle" stackId="2" startPc="268452709"/>
+<entry endPc="268454072" name="rez_cmp_local_custom_drawable_15814743131431074293" stackId="2" startPc="268453858"/>
+<entry endPc="268454072" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268453858"/>
+<entry arg="true" endPc="268454073" name="dc" stackId="1" startPc="268453846"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="103" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="190" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="245" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="324" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="363" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="394" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="545" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="584" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="615" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1174" parentId="globals" symbolId="Constants" type="class"/>
+<dataEntry offset="1604" parentId="globals" symbolId="Helpers" type="class"/>
+<dataEntry offset="1730" parentId="globals" symbolId="SimpleAnalogApp" type="class"/>
+<dataEntry offset="1809" parentId="globals" symbolId="SimpleAnalogView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SimpleAnalogApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SimpleAnalogApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SimpleAnalogApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SimpleAnalogApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="SimpleAnalogApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDateString" parent="Helpers">
+<param id="day"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getMainFont" parent="Helpers">
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getIconFont" parent="Helpers">
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getNumberFont" parent="Helpers">
+<param id="width"/>
+<param id="number_style"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="centerOnLeft" parent="Helpers">
+<param id="size"/>
+<param id="number_style"/>
+<param id="tick_style"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="centerOnRight" parent="Helpers">
+<param id="size"/>
+<param id="number_style"/>
+<param id="tick_style"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Constants">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPartialUpdate" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updateValues" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBackground" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTicks" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawNumbers" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHands" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDateBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="centerOnLeft" parent="SimpleAnalogView">
+<param id="size"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="centerOnRight" parent="SimpleAnalogView">
+<param id="size"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getColor" parent="SimpleAnalogView">
+<param id="num"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBoxLocX" parent="SimpleAnalogView">
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDashTicks" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="length"/>
+<param id="stroke"/>
+<param id="num"/>
+<param id="draw_numbers"/>
+<param id="hour_ticks"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTicksCircle" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="size"/>
+<param id="stroke"/>
+<param id="num"/>
+<param id="draw_numbers"/>
+<param id="hour_ticks"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTicksTriangle" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="length"/>
+<param id="stroke"/>
+<param id="num"/>
+<param id="draw_numbers"/>
+<param id="hour_ticks"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawRomanNumerals" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawPlainNumbers" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawCenturyNumbers" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawLineHand" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="num"/>
+<param id="time"/>
+<param id="offsetNum"/>
+<param id="offsetTime"/>
+<param id="length"/>
+<param id="stroke"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawCircleHand" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="num"/>
+<param id="time"/>
+<param id="offsetNum"/>
+<param id="offsetTime"/>
+<param id="length"/>
+<param id="stroke"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawLongArrowHand" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="num"/>
+<param id="time"/>
+<param id="offsetNum"/>
+<param id="offsetTime"/>
+<param id="length"/>
+<param id="stroke"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawArrowHand" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="num"/>
+<param id="time"/>
+<param id="offsetNum"/>
+<param id="offsetTime"/>
+<param id="length"/>
+<param id="stroke"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSecondHand" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSecondHandClip" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="num"/>
+<param id="time"/>
+<param id="length"/>
+<param id="stroke"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStatusBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDate" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTimeBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStepBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawFloorsBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawCaloriesBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDistanceBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBatteryBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTextBox" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="text"/>
+<param id="x"/>
+<param id="y"/>
+<param id="width"/>
+<param id="height"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawScreenSaver" parent="SimpleAnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawNumber" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="text"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawNumberAngle" parent="SimpleAnalogView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="pad"/>
+<param id="num_text"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updateNumberFontHeight" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updateBoxSizes" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="resetBufferedBitmap" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="clearBufferedBitmap" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="SimpleAnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

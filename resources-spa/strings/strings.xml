@@ -74,15 +74,5 @@
 
 	<string id="ShowSecondHandTitle">Show the second hand</string>
 	
-	
-	<!-- Days Of Week -->
-	<string id="Dow0">Sun</string>
-	<string id="Dow1">Mon</string>
-	<string id="Dow3">Tue</string>
-	<string id="Dow4">Wed</string>
-	<string id="Dow5">Thur</string>
-	<string id="Dow6">Fri</string>
-	<string id="Dow7">Sat</string>
-	
 
 </strings>

@@ -8,7 +8,7 @@ using Toybox.Time.Gregorian;
 class SimpleAnalogView extends WatchUi.WatchFace {
 	var offScreenBuffer;
     var clip;
-	var constants;
+	// var constants;
 
 	var background_color;
 	var foreground_color;
@@ -55,7 +55,7 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 
     // Load your resources here
     function onLayout(dc) {
-		constants = new Constants();
+		// constants = new Constants();
 		
 		width = dc.getWidth();
 		height = dc.getHeight();
@@ -111,7 +111,7 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 			}
 
 			dc.setColor(box_color, Graphics.COLOR_TRANSPARENT);
-			dc.fillCircle(width/2-1, height/2-1, constants.relative_center_radius*width);
+			dc.fillCircle(width/2-1, height/2-1, Constants.relative_center_radius*width);
 		}
     }
 
@@ -210,7 +210,7 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		drawDateBox(dc);
 
 		if(show_status_bar) {
-			drawStatusBox(dc, width/2, centerOnLeft(status_box_size[1]));
+			drawStatusBox(dc, width/2, Helpers.centerOnLeft(status_box_size[1], number_style, tick_style, width));
 		}
     	
 		drawHands(dc);		
@@ -227,24 +227,24 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		dc.setColor(foreground_color, Graphics.COLOR_TRANSPARENT);
 		if(tick_style == 1) {
 			if(show_min_ticks) {
-				drawDashTicks(dc, constants.relative_hour_tick_length*width, constants.relative_hour_tick_stroke*width, 12, draw_numbers, true);
-    			drawDashTicks(dc, constants.relative_min_tick_length*width, constants.relative_min_tick_stroke*width, 60, draw_numbers, false);
+				drawDashTicks(dc, Constants.relative_hour_tick_length*width, Constants.relative_hour_tick_stroke*width, 12, draw_numbers, true);
+    			drawDashTicks(dc, Constants.relative_min_tick_length*width, Constants.relative_min_tick_stroke*width, 60, draw_numbers, false);
 			} else {
-				drawDashTicks(dc, constants.relative_min_tick_length*width, constants.relative_min_tick_stroke*width, 12, draw_numbers, true);
+				drawDashTicks(dc, Constants.relative_min_tick_length*width, Constants.relative_min_tick_stroke*width, 12, draw_numbers, true);
 			}
 		} else if(tick_style == 2) {
 			if(show_min_ticks) {
-				drawTicksCircle(dc, constants.relative_hour_circle_tick_size*width, 1, 12, draw_numbers, true);
-    			drawTicksCircle(dc, constants.relative_min_circle_tick_size*width, 1, 60, draw_numbers, false);
+				drawTicksCircle(dc, Constants.relative_hour_circle_tick_size*width, 1, 12, draw_numbers, true);
+    			drawTicksCircle(dc, Constants.relative_min_circle_tick_size*width, 1, 60, draw_numbers, false);
 			} else {
-				drawTicksCircle(dc, constants.relative_min_circle_tick_size*width, 1, 12, draw_numbers, true);
+				drawTicksCircle(dc, Constants.relative_min_circle_tick_size*width, 1, 12, draw_numbers, true);
 			}
 		} else if(tick_style == 3) {
 			if(show_min_ticks) {
-				drawTicksTriangle(dc, constants.relative_hour_triangle_tick_size*width, 1, 12, draw_numbers, true);
-    			drawTicksTriangle(dc, constants.relative_min_triangle_tick_size*width, 1, 60, draw_numbers, false);
+				drawTicksTriangle(dc, Constants.relative_hour_triangle_tick_size*width, 1, 12, draw_numbers, true);
+    			drawTicksTriangle(dc, Constants.relative_min_triangle_tick_size*width, 1, 60, draw_numbers, false);
 			} else {
-				drawTicksTriangle(dc, constants.relative_min_triangle_tick_size*width, 1, 12, draw_numbers, true);
+				drawTicksTriangle(dc, Constants.relative_min_triangle_tick_size*width, 1, 12, draw_numbers, true);
 			}
 		}
 	}
@@ -267,28 +267,28 @@ class SimpleAnalogView extends WatchUi.WatchFace {
         var minutes = clockTime.min;
         var seconds = clockTime.sec;
 
-		var hour_hand_length = constants.relative_hour_hand_length;
-		var min_hand_length = constants.relative_min_hand_length;
+		var hour_hand_length = Constants.relative_hour_hand_length;
+		var min_hand_length = Constants.relative_min_hand_length;
 
 		if(!showTicks) {
-			hour_hand_length = constants.relative_hour_hand_length_extended;
-			min_hand_length = constants.relative_min_hand_length_extended;
+			hour_hand_length = Constants.relative_hour_hand_length_extended;
+			min_hand_length = Constants.relative_min_hand_length_extended;
 		}
 
 		dc.setColor(hour_min_hand_color, Graphics.COLOR_TRANSPARENT);
 
 		if(hand_style == 0) {
-    		drawLineHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.25, constants.relative_hour_hand_stroke*width);
-    		drawLineHand(dc, 60, minutes, 0, 0, min_hand_length*width, constants.relative_min_hand_stroke*width);
+    		drawLineHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.25, Constants.relative_hour_hand_stroke*width);
+    		drawLineHand(dc, 60, minutes, 0, 0, min_hand_length*width, Constants.relative_min_hand_stroke*width);
 		} else if(hand_style == 1) {
-			drawCircleHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.25, constants.relative_hour_hand_stroke*width);
-    		drawCircleHand(dc, 60, minutes, 0, 0, min_hand_length*width, constants.relative_min_hand_stroke*width);
+			drawCircleHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.25, Constants.relative_hour_hand_stroke*width);
+    		drawCircleHand(dc, 60, minutes, 0, 0, min_hand_length*width, Constants.relative_min_hand_stroke*width);
 		} else if(hand_style == 2) {
-			drawLongArrowHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.75, constants.relative_hour_hand_stroke*width);
-    		drawLongArrowHand(dc, 60, minutes, 0, 0, min_hand_length*width, constants.relative_min_hand_stroke*width);
+			drawLongArrowHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.75, Constants.relative_hour_hand_stroke*width);
+    		drawLongArrowHand(dc, 60, minutes, 0, 0, min_hand_length*width, Constants.relative_min_hand_stroke*width);
 		} else if(hand_style == 3) {
-			drawArrowHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.25, constants.relative_hour_hand_stroke*width);
-    		drawArrowHand(dc, 60, minutes, 0, 0, min_hand_length*width, constants.relative_min_hand_stroke*width);
+			drawArrowHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.25, Constants.relative_hour_hand_stroke*width);
+    		drawArrowHand(dc, 60, minutes, 0, 0, min_hand_length*width, Constants.relative_min_hand_stroke*width);
 		}
 	}
 
@@ -331,49 +331,35 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		if(date_on_right) {
     		drawDate(dc, centerOnRight(dow_size[0] + 4 + date_size[0]), width/2 - dow_size[1]/2);	
 		} else {
-			drawDate(dc, centerOnLeft( dow_size[0] + 4 + date_size[0]), width/2 - dow_size[1]/2);	
+			drawDate(dc, Helpers.centerOnLeft( (dow_size[0] + 4 + date_size[0]), number_style, tick_style, width), width/2 - dow_size[1]/2);	
 		}
 	}
 
 
 	//These functions center an object between the end of the hour tick and the edge of the center circle
 	function centerOnLeft(size) {
-		
-
-		// if(tick_style == 1) {
-		// 	return constants.relative_hour_tick_length * width + ((((constants.relative_hour_tick_length * width) - (width/2 - (constants.relative_center_radius * width)))/2).abs() - size/2);
-		// }
-
-		// if(number_style == 1) {
-		// 	return .1 * width + ((((.1 * width) - (width/2 - (constants.relative_center_radius * width)))/2).abs() - size/2);
-		// }
-
 		if(number_style == 1 || number_style == 2 || (number_style == 3 && tick_style == 0)){
-			return .1 * width + ((((.1 * width) - (width/2 - (constants.relative_center_radius * width)))/2).abs() - size/2);
+			return .1 * width + ((((.1 * width) - (width/2 - (Constants.relative_center_radius * width)))/2).abs() - size/2);
 		}
 
 		if(number_style == 3 && tick_style > 0) {
-			return .15 * width + ((((.15 * width) - (width/2 - (constants.relative_center_radius * width)))/2).abs() - size/2);
+			return .15 * width + ((((.15 * width) - (width/2 - (Constants.relative_center_radius * width)))/2).abs() - size/2);
 		}
 
-		return (((width/2 - (constants.relative_center_radius * width))/2).abs() - size/2);		
+		return (((width/2 - (Constants.relative_center_radius * width))/2).abs() - size/2);		
 	}
 
 	function centerOnRight(size) {
 
 		if(number_style == 1 || number_style == 2 || (number_style == 3 && tick_style == 0)) {
-			return width - .1 * width - ((((width - .1 * width) - (width/2 + (constants.relative_center_radius * width)))/2).abs() + size/2);
+			return width - .1 * width - ((((width - .1 * width) - (width/2 + (Constants.relative_center_radius * width)))/2).abs() + size/2);
 		}
 
 		if(number_style == 3 && tick_style > 0) {
-			return width - .15 * width - ((((width - .15 * width) - (width/2 + (constants.relative_center_radius * width)))/2).abs() + size/2);
+			return width - .15 * width - ((((width - .15 * width) - (width/2 + (Constants.relative_center_radius * width)))/2).abs() + size/2);
 		}
 
-		// if(showTicks) {
-		// 	return width - constants.relative_hour_tick_length * width - ((((width - constants.relative_hour_tick_length * width) - (width/2 + (constants.relative_center_radius * width)))/2).abs() + size/2);
-		// }
-
-		return width - ((((width) - (width/2 + (constants.relative_center_radius * width)))/2).abs() + size/2);
+		return width - ((((width) - (width/2 + (Constants.relative_center_radius * width)))/2).abs() + size/2);
 	}
 
 	//takes a number from settings and converts it to the assosciated color
@@ -441,11 +427,11 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		if(!date_on_right) {
 			return centerOnRight(width);
 		}
-		return centerOnLeft(width);
+		return Helpers.centerOnLeft(width, number_style, tick_style, width);
 	}
 
     function drawDashTicks(dc, length, stroke, num, draw_numbers, hour_ticks) {
-		dc.setPenWidth(width * constants.relative_tick_stroke);
+		dc.setPenWidth(width * Constants.relative_tick_stroke);
     	var tickAngle = 360/num;
     	var center = width/2;
 		
@@ -496,7 +482,7 @@ class SimpleAnalogView extends WatchUi.WatchFace {
     }
 
 	function drawTicksCircle(dc, size, stroke, num, draw_numbers, hour_ticks) {
-		dc.setPenWidth(width * constants.relative_tick_stroke);
+		dc.setPenWidth(width * Constants.relative_tick_stroke);
     	var tickAngle = 360/num;
     	var center = width/2;
     	for(var i = 0; i < num; i++) {
@@ -525,7 +511,7 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 	}
 
 	function drawTicksTriangle(dc, length, stroke, num, draw_numbers, hour_ticks) {
-		dc.setPenWidth(width * constants.relative_tick_stroke);
+		dc.setPenWidth(width * Constants.relative_tick_stroke);
     	var tickAngle = 360/num;
     	var center = width/2;
     	for(var i = 0; i < num; i++) {
@@ -684,11 +670,11 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		var x = center + Math.round((Math.cos(angle) * length));
 		var y = center + Math.round((Math.sin(angle) * length));
 
-		var x2 = center + Math.round((Math.cos(angle - Math.toRadians(90)) * (constants.relative_center_radius/2) * width));
-		var y2 = center + Math.round((Math.sin(angle - Math.toRadians(90)) * (constants.relative_center_radius/2) * width));
+		var x2 = center + Math.round((Math.cos(angle - Math.toRadians(90)) * (Constants.relative_center_radius/2) * width));
+		var y2 = center + Math.round((Math.sin(angle - Math.toRadians(90)) * (Constants.relative_center_radius/2) * width));
 
-		var x3 = center + Math.round((Math.cos(angle + Math.toRadians(90)) * (constants.relative_center_radius/2) * width));
-		var y3 = center + Math.round((Math.sin(angle + Math.toRadians(90)) * (constants.relative_center_radius/2) * width));
+		var x3 = center + Math.round((Math.cos(angle + Math.toRadians(90)) * (Constants.relative_center_radius/2) * width));
+		var y3 = center + Math.round((Math.sin(angle + Math.toRadians(90)) * (Constants.relative_center_radius/2) * width));
 
 		dc.fillPolygon([[x, y], [x2, y2], [x3, y3]]);
 
@@ -709,23 +695,23 @@ class SimpleAnalogView extends WatchUi.WatchFace {
     	dc.setPenWidth(stroke);
 
 		var x = center + Math.round((Math.cos(angle)) * (length - end_multiplier*width) + 
-			(Math.cos(angle - Math.toRadians(90)) * (constants.relative_center_radius*width*.7)));
+			(Math.cos(angle - Math.toRadians(90)) * (Constants.relative_center_radius*width*.7)));
 		var y = center + Math.round((Math.sin(angle) * (length - end_multiplier*width)) + 
-			(Math.sin(angle - Math.toRadians(90)) * (constants.relative_center_radius*width*.7)));
+			(Math.sin(angle - Math.toRadians(90)) * (Constants.relative_center_radius*width*.7)));
 
 		var x2 = center + Math.round((Math.cos(angle) * length));
 		var y2 = center + Math.round((Math.sin(angle) * length));
 
 		var x3 = center + Math.round((Math.cos(angle) * (length - end_multiplier*width)) + 
-			(Math.cos(angle + Math.toRadians(90)) * (constants.relative_center_radius*width*.7)));
+			(Math.cos(angle + Math.toRadians(90)) * (Constants.relative_center_radius*width*.7)));
 		var y3 = center + Math.round((Math.sin(angle) * (length - end_multiplier*width)) + 
-			(Math.sin(angle + Math.toRadians(90)) * (constants.relative_center_radius*width*.7)));
+			(Math.sin(angle + Math.toRadians(90)) * (Constants.relative_center_radius*width*.7)));
 
-		var x4 = center + Math.round((Math.cos(angle + Math.toRadians(90)) * (constants.relative_center_radius/2) * width));
-		var y4 = center + Math.round((Math.sin(angle + Math.toRadians(90)) * (constants.relative_center_radius/2) * width));
+		var x4 = center + Math.round((Math.cos(angle + Math.toRadians(90)) * (Constants.relative_center_radius/2) * width));
+		var y4 = center + Math.round((Math.sin(angle + Math.toRadians(90)) * (Constants.relative_center_radius/2) * width));
 
-		var x5 = center + Math.round((Math.cos(angle - Math.toRadians(90)) * (constants.relative_center_radius/2) * width));
-		var y5 = center + Math.round((Math.sin(angle - Math.toRadians(90)) * (constants.relative_center_radius/2) * width));
+		var x5 = center + Math.round((Math.cos(angle - Math.toRadians(90)) * (Constants.relative_center_radius/2) * width));
+		var y5 = center + Math.round((Math.sin(angle - Math.toRadians(90)) * (Constants.relative_center_radius/2) * width));
 
 		dc.fillPolygon([[x, y], [x2, y2], [x3, y3], [x4, y4], [x5, y5]]);
 	}
@@ -735,17 +721,17 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		var hours = clockTime.hour;
 		var minutes = clockTime.min;
 		var seconds = clockTime.sec;
-		var sec_hand_length = constants.relative_sec_hand_length;
+		var sec_hand_length = Constants.relative_sec_hand_length;
 
 		if(!showTicks) {
-			sec_hand_length = constants.relative_sec_hand_length_extended;
+			sec_hand_length = Constants.relative_sec_hand_length_extended;
 		}
 
 		dc.setColor(second_hand_color, Graphics.COLOR_TRANSPARENT);
 		if(partialUpdates && !needsProtection) {
-			drawSecondHandClip(dc, 60, seconds, sec_hand_length * width, constants.relative_sec_hand_stroke*width);
+			drawSecondHandClip(dc, 60, seconds, sec_hand_length * width, Constants.relative_sec_hand_stroke*width);
 		} else if(!lowPower) {
-			drawLineHand(dc, 60, seconds, 0, 0, sec_hand_length * width, constants.relative_sec_hand_stroke*width);
+			drawLineHand(dc, 60, seconds, 0, 0, sec_hand_length * width, Constants.relative_sec_hand_stroke*width);
 		}
 	}
     
@@ -764,8 +750,8 @@ class SimpleAnalogView extends WatchUi.WatchFace {
     	
     	var width2 = (center-x).abs();
     	var height2 = (center-y).abs();
-    	var padding = width * constants.relative_padding;
-    	var padding2 = width * constants.relative_padding2;
+    	var padding = width * Constants.relative_padding;
+    	var padding2 = width * Constants.relative_padding2;
     	
     	if(cosval < 0 && sinval > 0) {
     		dc.setClip(center-width2-padding2, center-padding, width2+padding+padding2, height2+padding+padding2);
@@ -787,7 +773,7 @@ class SimpleAnalogView extends WatchUi.WatchFace {
     	dc.drawLine(center, center, x, y);    
 
 		dc.setColor(box_color, Graphics.COLOR_TRANSPARENT);
-		dc.fillCircle(width/2-1, height/2-1, constants.relative_center_radius*width);	
+		dc.fillCircle(width/2-1, height/2-1, Constants.relative_center_radius*width);	
     }
 
     function drawStatusBox(dc, x, y) {
@@ -835,8 +821,8 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		var boxText = new WatchUi.Text({
             :text=>status_string,
             :color=>text_color,
-            :font=>getIconFont(),
-            :locX =>x + constants.text_padding[0],
+            :font=>Helpers.getIconFont(width),
+            :locX =>x + Constants.text_padding[0],
             :locY=>y,
 			:justification=>Graphics.TEXT_JUSTIFY_CENTER
         });
@@ -847,8 +833,9 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 	function drawDate(dc, x, y) {
 		
 		
-    	var info = Gregorian.info(Time.now(), Time.FORMAT_LONG);
-		var dowString = info.day_of_week;
+    	var info = Gregorian.info(Time.now(), Time.FORMAT_SHORT);
+		var dowString = Helpers.getDateString(info.day_of_week);
+		System.println(info.day_of_week);
 		var day_string = info.day.toString();
 
 		if(day_string.length() < 2) {
@@ -986,14 +973,14 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		dc.setPenWidth(2);
     	dc.setColor(box_color, Graphics.COLOR_WHITE);
 		if(showBoxes) {
-   			dc.drawRoundedRectangle(x, y, width, height, constants.box_padding);
+   			dc.drawRoundedRectangle(x, y, width, height, Constants.box_padding);
 		}
     	
 		var boxText = new WatchUi.Text({
             :text=>text,
             :color=>text_color,
-            :font=>getMainFont(),
-            :locX =>x + constants.text_padding[0],
+            :font=>Helpers.getMainFont(width),
+            :locX =>x + Constants.text_padding[0],
             :locY=>y,
 			:justification=>Graphics.TEXT_JUSTIFY_LEFT
         });
@@ -1007,8 +994,8 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 			var clockTime = System.getClockTime();
 			var timeString = clockTime.hour + ":" + clockTime.min.format("%02d");
 			var hour = clockTime.hour;
-			var ssloc = constants.screensaver_bounds;
-			var speed_mult = constants.screensaver_speed_mult;
+			var ssloc = Constants.screensaver_bounds;
+			var speed_mult = Constants.screensaver_speed_mult;
 			
 
 			if(!is24 && hour > 12) {
@@ -1050,7 +1037,7 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		var boxText = new WatchUi.Text({
             :text=>text,
             :color=>foreground_color,
-            :font=>getNumberFont(),
+            :font=>Helpers.getNumberFont(width, number_style),
             :locX =>x,
             :locY=>y,
 			:justification=>Graphics.TEXT_JUSTIFY_CENTER
@@ -1066,38 +1053,7 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 			width/2 + Math.round(Math.sin(Math.toRadians(angle)) * (width/2 - pad)) - number_font_height/2);
 	}
 
-	function getNumberFont() {
-		var number_font = WatchUi.loadResource(Rez.Fonts.CambriaFontMedium);
 
-		if(number_style == 1) {
-			if(width >= 390) {
-				return WatchUi.loadResource(Rez.Fonts.RomanFontLarge);
-			} else if(width >= 240) {
-				return WatchUi.loadResource(Rez.Fonts.RomanFontMedium);
-			} else {
-				return WatchUi.loadResource(Rez.Fonts.RomanFontSmall);
-			}
-		} else if(number_style == 2) {
-			if(width >= 390) {
-				return WatchUi.loadResource(Rez.Fonts.CambriaFontLarge);
-			} else if(width >= 240) {
-				return WatchUi.loadResource(Rez.Fonts.CambriaFontMedium);
-			} else {
-				return WatchUi.loadResource(Rez.Fonts.CambriaFontSmall);
-			}
-		} else if(number_style == 3) {
-			show_nums_at = true;
-			if(width >= 390) {
-				return WatchUi.loadResource(Rez.Fonts.CenturyFontLarge);
-			} else if(width >= 240) {
-				return WatchUi.loadResource(Rez.Fonts.CenturyFontMedium);
-			} else {
-				return WatchUi.loadResource(Rez.Fonts.CenturyFontSmall);
-			}
-		}
-
-		return number_font;
-	}
 
 	function updateNumberFontHeight() {
 		if(number_style == 1) {
@@ -1132,48 +1088,30 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 		}
 	}
 
-	function getIconFont() {
-		if(width >= 390) {
-			return WatchUi.loadResource(Rez.Fonts.BigIconFont);
-		} else if (width >= 240){
-			return WatchUi.loadResource(Rez.Fonts.IconFont2);
-		} else {
-			return WatchUi.loadResource(Rez.Fonts.IconFont);
-		}
-	}
-
-	function getMainFont() {
-		if(width >= 390) {
-			return WatchUi.loadResource(Rez.Fonts.BigFont);
-		} else if (width >= 240){
-			return WatchUi.loadResource(Rez.Fonts.MediumFont);
-		} else {
-			return WatchUi.loadResource(Rez.Fonts.MainFont);
-		}
-	}
+	
 
 	function updateBoxSizes() {
 		if(width >= 390) {
-			dow_size = constants.dow_size_large;
-			date_size = constants.date_size_large;
-			time_size = constants.time_size_large;
-			floors_size = constants.floors_size_large;
-			battery_size = constants.battery_size_large;
-			status_box_size = constants.status_box_size_large;
+			dow_size = Constants.dow_size_large;
+			date_size = Constants.date_size_large;
+			time_size = Constants.time_size_large;
+			floors_size = Constants.floors_size_large;
+			battery_size = Constants.battery_size_large;
+			status_box_size = Constants.status_box_size_large;
 		} else if (width >= 240){
-			dow_size = constants.dow_size_medium;
-			date_size = constants.date_size_medium;
-			time_size = constants.time_size_medium;
-			floors_size = constants.floors_size_medium;
-			battery_size = constants.battery_size_medium;
-			status_box_size = constants.status_box_size_medium;
+			dow_size = Constants.dow_size_medium;
+			date_size = Constants.date_size_medium;
+			time_size = Constants.time_size_medium;
+			floors_size = Constants.floors_size_medium;
+			battery_size = Constants.battery_size_medium;
+			status_box_size = Constants.status_box_size_medium;
 		} else {
-			dow_size = constants.dow_size_small;
-			date_size = constants.date_size_small;
-			time_size = constants.time_size_small;
-			floors_size = constants.floors_size_small;
-			battery_size = constants.battery_size_small;
-			status_box_size = constants.status_box_size_small;
+			dow_size = Constants.dow_size_small;
+			date_size = Constants.date_size_small;
+			time_size = Constants.time_size_small;
+			floors_size = Constants.floors_size_small;
+			battery_size = Constants.battery_size_small;
+			status_box_size = Constants.status_box_size_small;
 		}
 	}
 
