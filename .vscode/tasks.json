@@ -1,0 +1,13 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start simulator",
+            "type": "shell",
+            "command": "%APPDATA%\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-3.2.2-2020-08-28-a50584d55\\bin\\connectiq",
+            "problemMatcher": [],
+        },
+    ]
+}
