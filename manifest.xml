@@ -55,7 +55,6 @@
         <iq:permissions/>
         <iq:languages>
             <iq:language>eng</iq:language>
-            <iq:language>spa</iq:language>
         </iq:languages>
         <iq:barrels/>
     </iq:application>
