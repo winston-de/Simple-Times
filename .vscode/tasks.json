@@ -4,10 +4,31 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Start simulator",
+            "label": "Compile",
+            "type": "shell",
+            "command": "%APPDATA%\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-3.2.2-2020-08-28-a50584d55\\bin\\monkeyc",
+            "args": ["-d", "vivoactive4", "-f", "monkey.jungle", "-o", "simple_times.prg", "-y", "C:\\Users\\winis\\OneDrive\\Documents\\Dev_Keys\\ciq_dev_key"],
+            "problemMatcher": []
+        },
+        {
+            "label": "Start Simulator",
             "type": "shell",
             "command": "%APPDATA%\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-3.2.2-2020-08-28-a50584d55\\bin\\connectiq",
             "problemMatcher": [],
         },
+        {
+            "label": "Run Program",
+            "type": "shell",
+            "command": "%APPDATA%\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-3.2.2-2020-08-28-a50584d55\\bin\\monkeydo",
+            "args": ["simple_times.prg", "vivoactive4"],
+            "problemMatcher": []
+        },{
+            "label": "Start and Run",
+            "type": "shell",
+            "command": "echo Starting!",
+            "dependsOn": ["Start Simulator", "Run Program"],
+            "dependsOrder": "sequence",
+            "problemMatcher": []
+        }
     ]
 }

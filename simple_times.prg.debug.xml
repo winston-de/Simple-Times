@@ -1214,7 +1214,7 @@
 <entry arg="true" endPc="268452929" name="num_text" stackId="4" startPc="268452709"/>
 <entry arg="true" endPc="268452929" name="pad" stackId="3" startPc="268452709"/>
 <entry arg="true" endPc="268452929" name="angle" stackId="2" startPc="268452709"/>
-<entry endPc="268454072" name="rez_cmp_local_custom_drawable_15814743131431074293" stackId="2" startPc="268453858"/>
+<entry endPc="268454072" name="rez_cmp_local_custom_drawable_51468339418786889531" stackId="2" startPc="268453858"/>
 <entry endPc="268454072" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268453858"/>
 <entry arg="true" endPc="268454073" name="dc" stackId="1" startPc="268453846"/>
 </localVars>
