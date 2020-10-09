@@ -26,7 +26,7 @@ class Helpers {
 			return WatchUi.loadResource(Rez.Fonts.IconFont);
 		}
 	}
-
+	
 	public static function getNumberFont(width, number_style) {
 		var number_font = WatchUi.loadResource(Rez.Fonts.CambriaFontMedium);
 
