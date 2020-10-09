@@ -61,7 +61,7 @@ class Helpers {
 	}
 
 	//These functions center an object between the end of the hour tick and the edge of the center circle
-	function centerOnLeft(size, number_style, tick_style, width) {
+	public static function centerOnLeft(size, number_style, tick_style, width) {
 		if(number_style == 1 || number_style == 2 || (number_style == 3 && tick_style == 0)){
 			return .1 * width + ((((.1 * width) - (width/2 - (Constants.relative_center_radius * width)))/2).abs() - size/2);
 		}
@@ -73,7 +73,7 @@ class Helpers {
 		return (((width/2 - (Constants.relative_center_radius * width))/2).abs() - size/2);		
 	}
 
-	function centerOnRight(size, number_style, tick_style, width) {
+	public static function centerOnRight(size, number_style, tick_style, width) {
 
 		if(number_style == 1 || number_style == 2 || (number_style == 3 && tick_style == 0)) {
 			return width - .1 * width - ((((width - .1 * width) - (width/2 + (Constants.relative_center_radius * width)))/2).abs() + size/2);
@@ -85,4 +85,38 @@ class Helpers {
 
 		return width - ((((width) - (width/2 + (Constants.relative_center_radius * width)))/2).abs() + size/2);
 	}
+
+	public static function GetNumberFontHeight(width, number_style, show_nums_at) {
+		if(number_style == 1) {
+			show_nums_at = true;
+			if(width >= 390) {
+				return 39;
+			} else if(width >= 240) {
+				return 26;
+			} else {
+				return 22;
+			}
+		} else if(number_style == 2) {
+			show_nums_at = false;
+			if(width >= 390) {
+				return 54;
+			} else if(width >= 240) {
+				return 36;
+			} else {
+				return 30;
+			}
+		} else if(number_style == 3) {
+			show_nums_at = true;
+			if(width >= 390) {
+				return 51;
+			} else if(width >= 240) {
+				return 34;
+			} else {
+				return 28;
+			}
+		} else {
+			return 0;
+		}
+	}
+
 }

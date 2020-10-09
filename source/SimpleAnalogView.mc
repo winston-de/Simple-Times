@@ -1047,48 +1047,12 @@ class SimpleAnalogView extends WatchUi.WatchFace {
 	}
 
 	function drawNumberAngle(dc, angle, pad, num_text) {
-		updateNumberFontHeight();
+		// updateNumberFontHeight();
+		number_font_height = Helpers.GetNumberFontHeight(width, number_style, show_nums_at);
 		
 		drawNumber(dc, num_text, width/2 + Math.round(Math.cos(Math.toRadians(angle)) * (width/2 - pad)), 
 			width/2 + Math.round(Math.sin(Math.toRadians(angle)) * (width/2 - pad)) - number_font_height/2);
 	}
-
-
-
-	function updateNumberFontHeight() {
-		if(number_style == 1) {
-			show_nums_at = true;
-			if(width >= 390) {
-				number_font_height = 39;
-			} else if(width >= 240) {
-				number_font_height = 26;
-			} else {
-				number_font_height = 22;
-			}
-		} else if(number_style == 2) {
-			show_nums_at = false;
-			if(width >= 390) {
-				number_font_height = 54;
-			} else if(width >= 240) {
-				number_font_height = 36;
-			} else {
-				number_font_height = 30;
-			}
-		} else if(number_style == 3) {
-			show_nums_at = true;
-			if(width >= 390) {
-				number_font_height = 51;
-			} else if(width >= 240) {
-				number_font_height = 34;
-			} else {
-				number_font_height = 28;
-			}
-		} else {
-			number_font_height = 0;
-		}
-	}
-
-	
 
 	function updateBoxSizes() {
 		if(width >= 390) {
