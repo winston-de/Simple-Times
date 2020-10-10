@@ -70,8 +70,6 @@ module Main {
 		var offScreenBuffer;
 		var clip;
 
-		var number_font_height;
-
 		var lowPower = false;
 		var needsProtection = false;
 		var lowMemDevice = false;
@@ -202,7 +200,7 @@ module Main {
 			drawDateBox(dc);
 
 			if(Application.getApp().getProperty("ShowStatusBar")) {
-				drawStatusBox(dc, width/2, Helpers.centerOnLeft(status_box_size[1], Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width));
+				drawStatusBox(dc, width/2, centerOnLeft(status_box_size[1], Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width));
 			}
 			
 			drawHands(dc);		
@@ -327,10 +325,10 @@ module Main {
 		//Draws the date according to the user's settings
 		function drawDateBox(dc) {
 			if(Application.getApp().getProperty("DateOnRight")) {
-				drawDate(dc, Helpers.centerOnRight(dow_size[0] + 4 + date_size[0], Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width), width/2 - dow_size[1]/2);	
+				drawDate(dc, centerOnRight(dow_size[0] + 4 + date_size[0], Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width), width/2 - dow_size[1]/2);	
 				// drawDate(dc, centerOnRight(dow_size[0] + 4 + date_size[0]), width/2 - dow_size[1]/2);
 			} else {
-				drawDate(dc, Helpers.centerOnLeft(dow_size[0] + 4 + date_size[0], Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width), width/2 - dow_size[1]/2);	
+				drawDate(dc, centerOnLeft(dow_size[0] + 4 + date_size[0], Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width), width/2 - dow_size[1]/2);	
 			}
 		}
 
@@ -397,10 +395,10 @@ module Main {
 
 		function getBoxLocX(boxWidth) {
 			if(!Application.getApp().getProperty("DateOnRight")) {
-				return Helpers.centerOnRight(boxWidth, Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width);
+				return centerOnRight(boxWidth, Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width);
 				// return centerOnRight(width);
 			}
-			return Helpers.centerOnLeft(boxWidth, Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width);
+			return centerOnLeft(boxWidth, Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width);
 		}
 
 		function drawDashTicks(dc, length, stroke, num, draw_numbers, hour_ticks) {
@@ -415,7 +413,7 @@ module Main {
 						&& !(i > 30-diff && i < 30+diff) 
 						&& !(i > 45-diff && i < 45+diff));
 
-				if(Helpers.GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
+				if(GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
 					cond1 = true;
 				}
 
@@ -436,7 +434,7 @@ module Main {
 
 				var cond2 = draw_numbers && hour_ticks && !(i == 0 || i == 3 || i == 6 || i == 9);
 
-				if(Helpers.GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
+				if(GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
 					cond2 = false;
 				}
 			
@@ -465,12 +463,12 @@ module Main {
 						&& !(i > 30-diff && i < 30+diff) 
 						&& !(i > 45-diff && i < 45+diff));
 				
-				if(Helpers.GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
+				if(GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
 					cond1 = true;
 				}
 				var cond2 = draw_numbers && hour_ticks && !(i == 0 || i == 3 || i == 6 || i == 9);
 
-				if(Helpers.GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
+				if(GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
 					cond2 = false;
 				}
 
@@ -493,12 +491,12 @@ module Main {
 						&& !(i > 15-diff && i < 15+diff) 
 						&& !(i > 30-diff && i < 30+diff) 
 						&& !(i > 45-diff && i < 45+diff));
-				if(Helpers.GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
+				if(GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
 					cond1 = true;
 				}
 				var cond2 = draw_numbers && hour_ticks && !(i == 0 || i == 3 || i == 6 || i == 9);
 
-				if(Helpers.GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
+				if(GetShowNumsAt(Application.getApp().getProperty("NumberStyle"))) {
 					cond2 = false;
 				}
 
@@ -794,7 +792,7 @@ module Main {
 			var boxText = new WatchUi.Text({
 				:text=>status_string,
 				:color=>getColor(Application.getApp().getProperty("TextColor")),
-				:font=>Helpers.getIconFont(width),
+				:font=>getIconFont(width),
 				:locX =>x + TEXT_PADDING[0],
 				:locY=>y,
 				:justification=>Graphics.TEXT_JUSTIFY_CENTER
@@ -807,7 +805,7 @@ module Main {
 			
 			
 			var info = Gregorian.info(Time.now(), Time.FORMAT_SHORT);
-			var dowString = Helpers.getDateString(info.day_of_week);
+			var dowString = getDateString(info.day_of_week);
 			var day_string = info.day.toString();
 
 			if(day_string.length() < 2) {
@@ -951,7 +949,7 @@ module Main {
 			var boxText = new WatchUi.Text({
 				:text=>text,
 				:color=>getColor(Application.getApp().getProperty("TextColor")),
-				:font=>Helpers.getMainFont(width),
+				:font=>getMainFont(width),
 				:locX =>x + TEXT_PADDING[0],
 				:locY=>y,
 				:justification=>Graphics.TEXT_JUSTIFY_LEFT
@@ -1009,7 +1007,7 @@ module Main {
 			var boxText = new WatchUi.Text({
 				:text=>text,
 				:color=> getColor(Application.getApp().getProperty("ForegroundColor")),
-				:font=>Helpers.getNumberFont(width, Application.getApp().getProperty("NumberStyle")),
+				:font=>getNumberFont(width, Application.getApp().getProperty("NumberStyle")),
 				:locX =>x,
 				:locY=>y,
 				:justification=>Graphics.TEXT_JUSTIFY_CENTER
@@ -1020,7 +1018,7 @@ module Main {
 
 		function drawNumberAngle(dc, angle, pad, num_text) {
 			// updateNumberFontHeight();
-			number_font_height = Helpers.GetNumberFontHeight(width, Application.getApp().getProperty("NumberStyle"));
+			var number_font_height = GetNumberFontHeight(width, Application.getApp().getProperty("NumberStyle"));
 			
 			drawNumber(dc, num_text, width/2 + Math.round(Math.cos(Math.toRadians(angle)) * (width/2 - pad)), 
 				width/2 + Math.round(Math.sin(Math.toRadians(angle)) * (width/2 - pad)) - number_font_height/2);
@@ -1084,5 +1082,128 @@ module Main {
 			lowPower = true;
 		}
 
+	}
+
+	//Helpers go here
+	public static function getDateString(day) {
+		return "Test";
+	}
+
+	public static function getMainFont(width) {
+		if(width >= 390) {
+			return WatchUi.loadResource(Rez.Fonts.BigFont);
+		} else if (width >= 240){
+			return WatchUi.loadResource(Rez.Fonts.MediumFont);
+		} else {
+			return WatchUi.loadResource(Rez.Fonts.MainFont);
+		}
+	}
+
+	public static function getIconFont(width) {
+		if(width >= 390) {
+			return WatchUi.loadResource(Rez.Fonts.BigIconFont);
+		} else if (width >= 240){
+			return WatchUi.loadResource(Rez.Fonts.IconFont2);
+		} else {
+			return WatchUi.loadResource(Rez.Fonts.IconFont);
+		}
+	}
+	
+	public static function getNumberFont(width, number_style) {
+		var number_font = WatchUi.loadResource(Rez.Fonts.CambriaFontMedium);
+
+		if(number_style == 1) {
+			if(width >= 390) {
+				return WatchUi.loadResource(Rez.Fonts.RomanFontLarge);
+			} else if(width >= 240) {
+				return WatchUi.loadResource(Rez.Fonts.RomanFontMedium);
+			} else {
+				return WatchUi.loadResource(Rez.Fonts.RomanFontSmall);
+			}
+		} else if(number_style == 2) {
+			if(width >= 390) {
+				return WatchUi.loadResource(Rez.Fonts.CambriaFontLarge);
+			} else if(width >= 240) {
+				return WatchUi.loadResource(Rez.Fonts.CambriaFontMedium);
+			} else {
+				return WatchUi.loadResource(Rez.Fonts.CambriaFontSmall);
+			}
+		} else if(number_style == 3) {
+			if(width >= 390) {
+				return WatchUi.loadResource(Rez.Fonts.CenturyFontLarge);
+			} else if(width >= 240) {
+				return WatchUi.loadResource(Rez.Fonts.CenturyFontMedium);
+			} else {
+				return WatchUi.loadResource(Rez.Fonts.CenturyFontSmall);
+			}
+		}
+
+		return number_font;
+	}
+
+	//These functions center an object between the end of the hour tick and the edge of the center circle
+	public static function centerOnLeft(size, number_style, tick_style, width) {
+		if(number_style == 1 || number_style == 2 || (number_style == 3 && tick_style == 0)){
+			return .1 * width + ((((.1 * width) - (width/2 - (RELATIVE_CENTER_RADIUS * width)))/2).abs() - size/2);
+		}
+
+		if(number_style == 3 && tick_style > 0) {
+			return .15 * width + ((((.15 * width) - (width/2 - (RELATIVE_CENTER_RADIUS * width)))/2).abs() - size/2);
+		}
+
+		return (((width/2 - (RELATIVE_CENTER_RADIUS * width))/2).abs() - size/2);		
+	}
+
+	public static function centerOnRight(size, number_style, tick_style, width) {
+
+		if(number_style == 1 || number_style == 2 || (number_style == 3 && tick_style == 0)) {
+			return width - .1 * width - ((((width - .1 * width) - (width/2 + (RELATIVE_CENTER_RADIUS * width)))/2).abs() + size/2);
+		}
+
+		if(number_style == 3 && tick_style > 0) {
+			return width - .15 * width - ((((width - .15 * width) - (width/2 + (RELATIVE_CENTER_RADIUS * width)))/2).abs() + size/2);
+		}
+		
+		return width - ((((width) - (width/2 + (RELATIVE_CENTER_RADIUS * width)))/2).abs() + size/2);
+	}
+	
+	public static function GetNumberFontHeight(width, number_style) {
+		if(number_style == 1) {
+			if(width >= 390) {
+				return 39;
+			} else if(width >= 240) {
+				return 26;
+			} else {
+				return 22;
+		}
+		} else if(number_style == 2) {
+			if(width >= 390) {
+				return 54;
+			} else if(width >= 240) {
+				return 36;
+			} else {
+				return 30;
+			}
+		} else if(number_style == 3) {
+			if(width >= 390) {
+				return 51;
+			} else if(width >= 240) {
+				return 34;
+			} else {
+				return 28;
+			}
+		} else {
+			return 0;
+		}
+	}
+
+	public static function GetShowNumsAt(number_style) {
+		if(number_style == 1) {
+			return true;
+		} else if(number_style == 2) {
+			return false;
+		} else if(number_style == 3) {
+			return true;
+		}
 	}
 }
