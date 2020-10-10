@@ -74,11 +74,6 @@ module Main {
 		var needsProtection = false;
 		var lowMemDevice = false;
 		var partialUpdates = false;
-		var isDistanceMetric;
-		var showSecondHand;
-
-		var showBoxes;
-
 
 		var dow_size;
 		var date_size;
@@ -144,7 +139,7 @@ module Main {
 					dc.drawBitmap(0, 0, offScreenBuffer);
 				}
 
-				if(showSecondHand) {
+				if(Application.getApp().getProperty("ShowSecondHand")) {
 					drawSecondHand(dc);
 				}
 
@@ -163,23 +158,12 @@ module Main {
 		//use this to update values controlled by settings
 		function updateValues() {
 
-			var distanceMetric = System.getDeviceSettings().distanceUnits;
-			if(distanceMetric == System.UNIT_METRIC) {
-				isDistanceMetric = true;
-			} else {
-				isDistanceMetric = false;
-			}
-
-			showBoxes = Application.getApp().getProperty("ShowBoxes");
-
 			var always_on = Application.getApp().getProperty("AlwaysOn");
-			
-			showSecondHand = Application.getApp().getProperty("ShowSecondHand");
 
-			if(!lowMemDevice && !partialUpdates && !needsProtection && (always_on && showSecondHand)) {
+			if(!lowMemDevice && !partialUpdates && !needsProtection && (always_on && Application.getApp().getProperty("ShowSecondHand"))) {
 				partialUpdates = true;
 				resetBufferedBitmap();
-			} else if(!needsProtection && !lowMemDevice && (!always_on || !showSecondHand)) {
+			} else if(!needsProtection && !lowMemDevice && (!always_on || !Application.getApp().getProperty("ShowSecondHand"))) {
 				partialUpdates = false;
 				clearBufferedBitmap();
 			}
@@ -849,7 +833,7 @@ module Main {
 				stepString = (steps.toDouble()/1000).format("%.1f") + "k";
 			}
 
-			if(!showBoxes) {
+			if(!Application.getApp().getProperty("ShowBoxes")) {
 				stepString = " " + stepString;
 			}
 			// System.out.println(steps);
@@ -875,7 +859,7 @@ module Main {
 			}
 
 			
-			if(!showBoxes) {
+			if(!Application.getApp().getProperty("ShowBoxes")) {
 					floorString = " " + floorString;
 			}
 
@@ -894,7 +878,7 @@ module Main {
 				calorieString = (calories.toDouble()/1000).format("%0.1f") + "k";
 			}
 
-			if(!showBoxes) {
+			if(!Application.getApp().getProperty("ShowBoxes")) {
 				calorieString = " " + calorieString;
 			}
 
@@ -904,7 +888,9 @@ module Main {
 		}
 
 		function drawDistanceBox(dc, x, y) {
-			
+			var distanceMetric = System.getDeviceSettings().distanceUnits;
+			var isDistanceMetric = distanceMetric == System.UNIT_METRIC;
+		
 			var distance;
 			distance = ActivityMonitor.getInfo().distance/1000000;
 			System.println(distance);
@@ -919,7 +905,7 @@ module Main {
 			}
 
 			
-			if(!showBoxes) {
+			if(!Application.getApp().getProperty("ShowBoxes")) {
 				distanceString = " " + distanceString;
 			}
 
@@ -932,7 +918,7 @@ module Main {
 
 			var batteryString = battery.format("%.0f");
 
-			if(!showBoxes) {
+			if(!Application.getApp().getProperty("ShowBoxes")) {
 				batteryString = " " + batteryString;
 			}
 
@@ -942,7 +928,7 @@ module Main {
 		function drawTextBox(dc, text, x, y, boxWidth, boxHeight) {
 			dc.setPenWidth(2);
 			dc.setColor(getColor(Application.getApp().getProperty("BoxColor")), Graphics.COLOR_WHITE);
-			if(showBoxes) {
+			if(Application.getApp().getProperty("ShowBoxes")) {
 				dc.drawRoundedRectangle(x, y, boxWidth, boxHeight, BOX_PADDING);
 			}
 			
