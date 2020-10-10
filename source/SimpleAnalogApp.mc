@@ -17,7 +17,7 @@ class SimpleAnalogApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new SimpleAnalogView() ];
+        return [ new Main.SimpleAnalogView() ];
     }
 
     // New app settings have been received so trigger a UI update
