@@ -94,7 +94,7 @@ module Main {
 			height = dc.getHeight();
 
 			//Due to the maximum memory usage being to low for devices with displays of 260px, buffered bitmaps and partial updates must be disabled
-			if((width >= 220 && System.getSystemStats().totalMemory < 95000) || !(Graphics has :BufferedBitmap) || !(dc has :clearClip)) {
+			if((width >= 220 && System.getSystemStats().totalMemory < 97000) || !(Graphics has :BufferedBitmap) || !(dc has :clearClip)) {
 				lowMemDevice = true;
 			}
 
@@ -1076,55 +1076,39 @@ module Main {
 	}
 
 	public static function getMainFont(width) {
-		if(width >= 390) {
-			return WatchUi.loadResource(Rez.Fonts.BigFont);
-		} else if (width >= 240){
-			return WatchUi.loadResource(Rez.Fonts.MediumFont);
-		} else {
-			return WatchUi.loadResource(Rez.Fonts.MainFont);
-		}
+		// if(width >= 390) {
+		// 	return WatchUi.loadResource(Rez.Fonts.BigFont);
+		// } else if (width >= 240){
+		// 	return WatchUi.loadResource(Rez.Fonts.MediumFont);
+		// } else {
+		// 	return WatchUi.loadResource(Rez.Fonts.MainFont);
+		// }
+
+		return WatchUi.loadResource(Rez.Fonts.MainFont);
 	}
 
 	public static function getIconFont(width) {
-		if(width >= 390) {
-			return WatchUi.loadResource(Rez.Fonts.BigIconFont);
-		} else if (width >= 240){
-			return WatchUi.loadResource(Rez.Fonts.IconFont2);
-		} else {
-			return WatchUi.loadResource(Rez.Fonts.IconFont);
-		}
+		// if(width >= 390) {
+		// 	return WatchUi.loadResource(Rez.Fonts.BigIconFont);
+		// } else if (width >= 240){
+		// 	return WatchUi.loadResource(Rez.Fonts.IconFont2);
+		// } else {
+		// 	return WatchUi.loadResource(Rez.Fonts.IconFont);
+		// }
+
+		return WatchUi.loadResource(Rez.Fonts.IconFont);
 	}
 	
 	public static function getNumberFont(width, number_style) {
-		var number_font = WatchUi.loadResource(Rez.Fonts.CambriaFontMedium);
-
 		if(number_style == 1) {
-			if(width >= 390) {
-				return WatchUi.loadResource(Rez.Fonts.RomanFontLarge);
-			} else if(width >= 240) {
-				return WatchUi.loadResource(Rez.Fonts.RomanFontMedium);
-			} else {
-				return WatchUi.loadResource(Rez.Fonts.RomanFontSmall);
-			}
+			return WatchUi.loadResource(Rez.Fonts.RomanFont);
 		} else if(number_style == 2) {
-			if(width >= 390) {
-				return WatchUi.loadResource(Rez.Fonts.CambriaFontLarge);
-			} else if(width >= 240) {
-				return WatchUi.loadResource(Rez.Fonts.CambriaFontMedium);
-			} else {
-				return WatchUi.loadResource(Rez.Fonts.CambriaFontSmall);
-			}
+			return WatchUi.loadResource(Rez.Fonts.CambriaFont);
 		} else if(number_style == 3) {
-			if(width >= 390) {
-				return WatchUi.loadResource(Rez.Fonts.CenturyFontLarge);
-			} else if(width >= 240) {
-				return WatchUi.loadResource(Rez.Fonts.CenturyFontMedium);
-			} else {
-				return WatchUi.loadResource(Rez.Fonts.CenturyFontSmall);
-			}
+			return WatchUi.loadResource(Rez.Fonts.CenturyFont);
 		}
 
-		return number_font;
+		// return number_font;
 	}
 
 	//These functions center an object between the end of the hour tick and the edge of the center circle

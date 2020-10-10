@@ -7,7 +7,7 @@
             "label": "Compile",
             "type": "shell",
             "command": "%APPDATA%\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-3.2.2-2020-08-28-a50584d55\\bin\\monkeyc",
-            "args": ["-d", "vivoactive4", "-f", "monkey.jungle", "-o", "bin\\debug\\simple_times.prg", "-y", "C:\\Users\\winis\\OneDrive\\Documents\\Dev_Keys\\ciq_dev_key"],
+            "args": ["-d", "venu", "-f", "monkey.jungle", "-o", "bin\\debug\\simple_times.prg", "-y", "C:\\Users\\winis\\OneDrive\\Documents\\Dev_Keys\\ciq_dev_key"],
             "problemMatcher": []
         },
         {
@@ -20,7 +20,7 @@
             "label": "Run Program",
             "type": "shell",
             "command": "%APPDATA%\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-3.2.2-2020-08-28-a50584d55\\bin\\monkeydo",
-            "args": ["bin\\debug\\simple_times.prg", "vivoactive4"],
+            "args": ["bin\\debug\\simple_times.prg", "venu"],
             "problemMatcher": []
         },{
             "label": "Start and Run",

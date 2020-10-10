@@ -1,17 +1,3 @@
 <fonts>
-	<font id="MainFont" filename="font.fnt" antialias="true" />
-	<font id="MediumFont" filename="font_medium.fnt" antialias="true" />
-	<font id="BigFont" filename="bigFont.fnt" antialias="true"/>
-	<font id="IconFont" filename="icon_medium.fnt" antialias="true" filter="ABCDEFGHIJK"/>
-	<font id="IconFont2" filename="icon_medium2.fnt" antialias="true" filter="ABCDEFGHIJK"/>
-	<font id="BigIconFont" filename="icon_large.fnt" antialias="true" filter="ABCDEFGHIJK"/>
-	<font id="RomanFontLarge" filename="roman_large.fnt" antialias="true" filter="XIV012369"/>
-	<font id="RomanFontMedium" filename="roman_medium.fnt" antialias="true" filter="XIV012369"/>
-	<font id="RomanFontSmall" filename="roman_small.fnt" antialias="true" filter="XIV012369"/>
-	<font id="CambriaFontLarge" filename="cambria_large.fnt" antialias="true" filter="12369"/>
-	<font id="CambriaFontMedium" filename="cambria_medium.fnt" antialias="true" filter="12369"/>
-	<font id="CambriaFontSmall" filename="cambria_small.fnt" antialias="true" filter="12369"/>
-	<font id="CenturyFontSmall" filename="century_small.fnt" antialias="true" filter="1234567890"/>
-	<font id="CenturyFontMedium" filename="century_medium.fnt" antialias="true" filter="1234567890"/>
-	<font id="CenturyFontLarge" filename="century_large.fnt" antialias="true" filter="1234567890"/>
+
 </fonts>																																																																																																																												
