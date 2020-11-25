@@ -65,7 +65,23 @@ module Main {
 	const SCREENSAVER_SPEED_MULT = [1.2, 1.1];
 	const SCREENSAVER_BOUNDS = [100, 100];
 	const TOTAL_COLORS = 14;
-
+	const COLORS = [
+		Graphics.COLOR_BLACK, 
+		Graphics.COLOR_WHITE, 
+		Graphics.COLOR_LT_GRAY, 
+		Graphics.COLOR_DK_GRAY,
+		Graphics.COLOR_BLUE,
+		0x02084f,
+		Graphics.COLOR_RED,
+		0x730000,
+		Graphics.COLOR_GREEN,
+		0x004f15,
+		0xAA00FF,
+		Graphics.COLOR_PINK,
+		Graphics.COLOR_ORANGE,
+		Graphics.COLOR_YELLOW
+	];
+	
 	class SimpleAnalogView extends WatchUi.WatchFace {
 		var offScreenBuffer;
 		var clip;
@@ -143,7 +159,7 @@ module Main {
 					drawSecondHand(dc);
 				}
 
-				dc.setColor(getColor(Application.getApp().getProperty("BoxColor")), Graphics.COLOR_TRANSPARENT);
+				dc.setColor(COLORS[Application.getApp().getProperty("BoxColor")], Graphics.COLOR_TRANSPARENT);
 				dc.fillCircle(width/2-1, height/2-1, RELATIVE_CENTER_RADIUS*width);
 			}
 		}
@@ -176,7 +192,7 @@ module Main {
 		}
 
 		function drawBackground(dc) {
-			dc.setColor(getColor(Application.getApp().getProperty("Background")), getColor(Application.getApp().getProperty("Background")));
+			dc.setColor(COLORS[Application.getApp().getProperty("Background")], COLORS[Application.getApp().getProperty("Background")]);
 			dc.clear();
 			drawTicks(dc);
 			drawNumbers(dc);
@@ -254,7 +270,7 @@ module Main {
 				min_hand_length = RELATIVE_MIN_HAND_LENGTH_EXTENDED;
 			}
 
-			dc.setColor(getColor(Application.getApp().getProperty("HourMinHandColor")), Graphics.COLOR_TRANSPARENT);
+			dc.setColor(COLORS[Application.getApp().getProperty("HourMinHandColor")], Graphics.COLOR_TRANSPARENT);
 
 			if(hand_style == 0) {
 				drawLineHand(dc, 12.00, hours, 60,  minutes, hour_hand_length*width*1.25, RELATIVE_HOUR_HAND_STROKE*width);
@@ -314,67 +330,6 @@ module Main {
 			} else {
 				drawDate(dc, centerOnLeft(dow_size[0] + 4 + date_size[0], Application.getApp().getProperty("NumberStyle"), Application.getApp().getProperty("TickStyle"), width), width/2 - dow_size[1]/2);	
 			}
-		}
-
-		//takes a number from settings and converts it to the assosciated color
-		function getColor(num) {
-			if(num == 0) {
-				return Graphics.COLOR_BLACK;
-			}
-
-			if(num == 1) {
-				return Graphics.COLOR_WHITE;
-			}
-
-			if(num == 2) {
-				return Graphics.COLOR_LT_GRAY;
-			}
-
-			if(num == 3) {
-				return Graphics.COLOR_DK_GRAY;
-			}
-
-			if(num == 4) {
-				return Graphics.COLOR_BLUE;
-			}
-
-			if(num == 5) {
-				return 0x02084f;
-			}
-
-			if(num == 6) {
-				return Graphics.COLOR_RED;
-			}
-
-			if(num == 7) {
-				return 0x730000;
-			}
-
-			if(num == 8) {
-				return Graphics.COLOR_GREEN;
-			}
-
-			if(num == 9) {
-				return 0x004f15;
-			}
-
-			if(num == 10) {
-				return 0xAA00FF;
-			}
-
-			if(num == 11) {
-				return Graphics.COLOR_PINK;
-			}
-
-			if(num == 12) {
-				return Graphics.COLOR_ORANGE;
-			}
-
-			if(num == 13) {
-				return Graphics.COLOR_YELLOW;
-			}
-
-			return null;
 		}
 
 		function getBoxLocX(boxWidth) {
@@ -682,7 +637,7 @@ module Main {
 				sec_hand_length = RELATIVE_SEC_HAND_LENGTH_EXTENDED;
 			}
 
-			dc.setColor(getColor(Application.getApp().getProperty("SecondHandColor")), Graphics.COLOR_TRANSPARENT);
+			dc.setColor(COLORS[Application.getApp().getProperty("SecondHandColor")], Graphics.COLOR_TRANSPARENT);
 			if(partialUpdates && !needsProtection) {
 				drawSecondHandClip(dc, 60, seconds, sec_hand_length * width, RELATIVE_SEC_HAND_STROKE*width);
 			} else if(!lowPower) {
@@ -724,10 +679,10 @@ module Main {
 				dc.setClip(center-padding, center-padding, width2+padding+padding2, height2+padding+padding2);
 			}
 
-			dc.setColor(getColor(Application.getApp().getProperty("SecondHandColor")), Graphics.COLOR_TRANSPARENT);
+			dc.setColor(COLORS[Application.getApp().getProperty("SecondHandColor")], Graphics.COLOR_TRANSPARENT);
 			dc.drawLine(center, center, x, y);    
 
-			dc.setColor(getColor(Application.getApp().getProperty("BoxColor")), Graphics.COLOR_TRANSPARENT);
+			dc.setColor(COLORS[Application.getApp().getProperty("BoxColor")], Graphics.COLOR_TRANSPARENT);
 			dc.fillCircle(width/2-1, height/2-1, RELATIVE_CENTER_RADIUS*width);	
 		}
 
@@ -771,12 +726,12 @@ module Main {
 			}
 
 			dc.setPenWidth(2);
-			dc.setColor(getColor(Application.getApp().getProperty("BoxColor")), Graphics.COLOR_WHITE);
+			dc.setColor(COLORS[Application.getApp().getProperty("BoxColor")], Graphics.COLOR_WHITE);
 			
 			var boxText = new WatchUi.Text({
 				:text=>status_string,
-				:color=>getColor(Application.getApp().getProperty("TextColor")),
-				:font=>getIconFont(width),
+				:color=>COLORS[Application.getApp().getProperty("TextColor")],
+				:font=>WatchUi.loadResource(Rez.Fonts.IconFont),
 				:locX =>x + TEXT_PADDING[0],
 				:locY=>y,
 				:justification=>Graphics.TEXT_JUSTIFY_CENTER
@@ -927,15 +882,15 @@ module Main {
 
 		function drawTextBox(dc, text, x, y, boxWidth, boxHeight) {
 			dc.setPenWidth(2);
-			dc.setColor(getColor(Application.getApp().getProperty("BoxColor")), Graphics.COLOR_WHITE);
+			dc.setColor(COLORS[Application.getApp().getProperty("BoxColor")], Graphics.COLOR_WHITE);
 			if(Application.getApp().getProperty("ShowBoxes")) {
 				dc.drawRoundedRectangle(x, y, boxWidth, boxHeight, BOX_PADDING);
 			}
 			
 			var boxText = new WatchUi.Text({
 				:text=>text,
-				:color=>getColor(Application.getApp().getProperty("TextColor")),
-				:font=>getMainFont(width),
+				:color=>COLORS[Application.getApp().getProperty("TextColor")],
+				:font=> WatchUi.loadResource(Rez.Fonts.MainFont),
 				:locX =>x + TEXT_PADDING[0],
 				:locY=>y,
 				:justification=>Graphics.TEXT_JUSTIFY_LEFT
@@ -992,7 +947,7 @@ module Main {
 
 			var boxText = new WatchUi.Text({
 				:text=>text,
-				:color=> getColor(Application.getApp().getProperty("ForegroundColor")),
+				:color=> COLORS[Application.getApp().getProperty("ForegroundColor")],
 				:font=>getNumberFont(width, Application.getApp().getProperty("NumberStyle")),
 				:locX =>x,
 				:locY=>y,
@@ -1067,39 +1022,15 @@ module Main {
 		function onEnterSleep() {
 			lowPower = true;
 		}
-
+	
 	}
 
 	//Helpers go here
-	public static function getDateString(day) {
+	public function getDateString(day) {
 		return "Test";
 	}
 
-	public static function getMainFont(width) {
-		// if(width >= 390) {
-		// 	return WatchUi.loadResource(Rez.Fonts.BigFont);
-		// } else if (width >= 240){
-		// 	return WatchUi.loadResource(Rez.Fonts.MediumFont);
-		// } else {
-		// 	return WatchUi.loadResource(Rez.Fonts.MainFont);
-		// }
-
-		return WatchUi.loadResource(Rez.Fonts.MainFont);
-	}
-
-	public static function getIconFont(width) {
-		// if(width >= 390) {
-		// 	return WatchUi.loadResource(Rez.Fonts.BigIconFont);
-		// } else if (width >= 240){
-		// 	return WatchUi.loadResource(Rez.Fonts.IconFont2);
-		// } else {
-		// 	return WatchUi.loadResource(Rez.Fonts.IconFont);
-		// }
-
-		return WatchUi.loadResource(Rez.Fonts.IconFont);
-	}
-	
-	public static function getNumberFont(width, number_style) {
+	public function getNumberFont(width, number_style) {
 		if(number_style == 1) {
 			return WatchUi.loadResource(Rez.Fonts.RomanFont);
 		} else if(number_style == 2) {
@@ -1107,12 +1038,10 @@ module Main {
 		} else if(number_style == 3) {
 			return WatchUi.loadResource(Rez.Fonts.CenturyFont);
 		}
-
-		// return number_font;
 	}
 
 	//These functions center an object between the end of the hour tick and the edge of the center circle
-	public static function centerOnLeft(size, number_style, tick_style, width) {
+	public function centerOnLeft(size, number_style, tick_style, width) {
 		if(number_style == 1 || number_style == 2 || (number_style == 3 && tick_style == 0)){
 			return .1 * width + ((((.1 * width) - (width/2 - (RELATIVE_CENTER_RADIUS * width)))/2).abs() - size/2);
 		}
@@ -1124,7 +1053,7 @@ module Main {
 		return (((width/2 - (RELATIVE_CENTER_RADIUS * width))/2).abs() - size/2);		
 	}
 
-	public static function centerOnRight(size, number_style, tick_style, width) {
+	public function centerOnRight(size, number_style, tick_style, width) {
 
 		if(number_style == 1 || number_style == 2 || (number_style == 3 && tick_style == 0)) {
 			return width - .1 * width - ((((width - .1 * width) - (width/2 + (RELATIVE_CENTER_RADIUS * width)))/2).abs() + size/2);
@@ -1136,8 +1065,8 @@ module Main {
 		
 		return width - ((((width) - (width/2 + (RELATIVE_CENTER_RADIUS * width)))/2).abs() + size/2);
 	}
-	
-	public static function GetNumberFontHeight(width, number_style) {
+
+	public function GetNumberFontHeight(width, number_style) {
 		if(number_style == 1) {
 			if(width >= 390) {
 				return 39;
@@ -1167,13 +1096,12 @@ module Main {
 		}
 	}
 
-	public static function GetShowNumsAt(number_style) {
+	public function GetShowNumsAt(number_style) {
 		if(number_style == 1) {
 			return true;
 		} else if(number_style == 2) {
 			return false;
-		} else if(number_style == 3) {
-			return true;
 		}
+		return true;
 	}
 }
