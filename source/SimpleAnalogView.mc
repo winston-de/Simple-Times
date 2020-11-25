@@ -65,6 +65,7 @@ module Main {
 	const SCREENSAVER_SPEED_MULT = [1.2, 1.1];
 	const SCREENSAVER_BOUNDS = [100, 100];
 	const TOTAL_COLORS = 14;
+
 	const COLORS = [
 		Graphics.COLOR_BLACK, 
 		Graphics.COLOR_WHITE, 
@@ -80,6 +81,13 @@ module Main {
 		Graphics.COLOR_PINK,
 		Graphics.COLOR_ORANGE,
 		Graphics.COLOR_YELLOW
+	];
+
+	const NUMBER_FONTS = [
+		null,
+		Rez.Fonts.RomanFont,
+		Rez.Fonts.CambriaFont,
+		Rez.Fonts.CenturyFont,
 	];
 	
 	class SimpleAnalogView extends WatchUi.WatchFace {
@@ -948,7 +956,7 @@ module Main {
 			var boxText = new WatchUi.Text({
 				:text=>text,
 				:color=> COLORS[Application.getApp().getProperty("ForegroundColor")],
-				:font=>getNumberFont(width, Application.getApp().getProperty("NumberStyle")),
+				:font=> loadResource(NUMBER_FONTS[Application.getApp().getProperty("NumberStyle")]),
 				:locX =>x,
 				:locY=>y,
 				:justification=>Graphics.TEXT_JUSTIFY_CENTER
@@ -1028,16 +1036,6 @@ module Main {
 	//Helpers go here
 	public function getDateString(day) {
 		return "Test";
-	}
-
-	public function getNumberFont(width, number_style) {
-		if(number_style == 1) {
-			return WatchUi.loadResource(Rez.Fonts.RomanFont);
-		} else if(number_style == 2) {
-			return WatchUi.loadResource(Rez.Fonts.CambriaFont);
-		} else if(number_style == 3) {
-			return WatchUi.loadResource(Rez.Fonts.CenturyFont);
-		}
 	}
 
 	//These functions center an object between the end of the hour tick and the edge of the center circle
