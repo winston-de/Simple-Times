@@ -106,6 +106,10 @@ module Main {
 		var battery_size;
 		var status_box_size;
 
+		var iconFont;
+		var numberFont;
+		var numberFontKey = -1;
+
 		function initialize() {
 			WatchFace.initialize();
 		}
@@ -135,9 +139,12 @@ module Main {
 				partialUpdates = false;
 			}
 
+			iconFont = WatchUi.loadResource(Rez.Fonts.IconFont);
+
 			updateBoxSizes();
 
 			updateValues();
+			onUpdate(dc);
 		}
 
 		// Update the view
@@ -182,20 +189,25 @@ module Main {
 		//use this to update values controlled by settings
 		function updateValues() {
 
-			var always_on = Application.getApp().getProperty("AlwaysOn");
-
-			if(!lowMemDevice && !partialUpdates && !needsProtection && (always_on && Application.getApp().getProperty("ShowSecondHand"))) {
+			var alwaysOn = Application.getApp().getProperty("AlwaysOn");
+			if(!lowMemDevice && !partialUpdates && !needsProtection && (alwaysOn && Application.getApp().getProperty("ShowSecondHand"))) {
 				partialUpdates = true;
 				resetBufferedBitmap();
-			} else if(!needsProtection && !lowMemDevice && (!always_on || !Application.getApp().getProperty("ShowSecondHand"))) {
+			} else if(!needsProtection && !lowMemDevice && (!alwaysOn || !Application.getApp().getProperty("ShowSecondHand"))) {
 				partialUpdates = false;
 				clearBufferedBitmap();
 			}
 
-			if(needsProtection && always_on) {
+			if(needsProtection && alwaysOn) {
 				partialUpdates = true;
-			} else if(needsProtection && !always_on) {
+			} else if(needsProtection && !alwaysOn) {
 				partialUpdates = false;
+			}
+
+			var newNumberFontKey = Application.getApp().getProperty("NumberStyle");
+			// Don't reload unless the value has changed
+			if(newNumberFontKey != numberFontKey) {
+				numberFont = numberFont;
 			}
 		}
 
@@ -739,7 +751,7 @@ module Main {
 			var boxText = new WatchUi.Text({
 				:text=>status_string,
 				:color=>COLORS[Application.getApp().getProperty("TextColor")],
-				:font=>WatchUi.loadResource(Rez.Fonts.IconFont),
+				:font=>iconFont,
 				:locX =>x + TEXT_PADDING[0],
 				:locY=>y,
 				:justification=>Graphics.TEXT_JUSTIFY_CENTER
@@ -1029,8 +1041,27 @@ module Main {
 		// Terminate any active timers and prepare for slow updates.
 		function onEnterSleep() {
 			lowPower = true;
+		}	
+
+		function onPowerBudgetExceeded(powerInfo) {
+
 		}
-	
+	}
+	class SimpleAnalogDelegate extends WatchUi.WatchFaceDelegate {
+
+		function initialize() {
+			WatchFaceDelegate.initialize();
+		}
+
+		// The onPowerBudgetExceeded callback is called by the system if the
+		// onPartialUpdate method exceeds the allowed power budget. If this occurs,
+		// the system will stop invoking onPartialUpdate each second, so we set the
+		// partialUpdatesAllowed flag here to let the rendering methods know they
+		// should not be rendering a second hand.
+		function onPowerBudgetExceeded(powerInfo) {
+			System.println( "Average execution time: " + powerInfo.executionTimeAverage );
+			System.println( "Allowed execution time: " + powerInfo.executionTimeLimit );
+		}
 	}
 
 	//Helpers go here

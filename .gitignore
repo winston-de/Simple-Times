@@ -2,3 +2,6 @@ simple_times.prg
 simple_times.prg.debug.xml
 simple_times.prg
 bin
+.ionide
+.vscode/settings.json
+.vscode

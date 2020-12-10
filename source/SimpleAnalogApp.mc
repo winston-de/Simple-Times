@@ -17,7 +17,11 @@ class SimpleAnalogApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new Main.SimpleAnalogView() ];
+        if( Toybox.WatchUi has :WatchFaceDelegate ) {
+            return [ new Main.SimpleAnalogView(), new Main.SimpleAnalogDelegate() ];
+        } else {
+            return [new Main.SimpleAnalogView()];
+        }
     }
 
     // New app settings have been received so trigger a UI update
